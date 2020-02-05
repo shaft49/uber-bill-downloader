@@ -1,0 +1,2349 @@
+=?UTF-8?Q?Receipt_for_canceled_trip_on_Tuesday_morning?=
+
+<!doctype html><html class=3D"email_receipt"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3Dutf-8"><meta name=3D"viewport" co=
+ntent=3D"width=3Ddevice-width"><!--[if !mso]><!-- --><meta http-equiv=3D"X-=
+UA-Compatible" content=3D"IE=3Dedge"><!--<![endif]--><!-- Make sure links a=
+re always opened in topmost parent frame --><base target=3D"_top"><!--[if g=
+te mso 9]><xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml><![endif]--><style type=3D"text/css">
+
+
+
+@media screen and (max-width:699px) {
+	.t1of12, .t2of12, .t3of12, .t4of12, .t5of12, .t6of12, .t7of12, .t8of12, .t=
+9of12, .t10of12, .t11of12, .t12of12, .full {
+		width: 100% !important;
+		max-width: none !important
+	}
+	a[x-apple-data-detectors] {
+		color: inherit !important;
+		text-decoration: none !important;
+		font-size: inherit !important;
+		font-family: inherit !important;
+		font-weight: inherit !important;
+		line-height: inherit !important
+	}
+	.headerTextLeft {
+		text-align: left !important;
+	}
+}
+@media screen and (-webkit-min-device-pixel-ratio:1) {
+	.arrow {
+		vertical-align: 6%;
+		line-height: 20px !important
+	}
+}
+@media screen {
+  // ClanPro
+	@font-face {
+		font-family: 'ClanPro-Thin';
+		src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts/C=
+lanProForUBER-Thin.woff') format('woff'), url('https://s3.amazonaws.com/ube=
+r-static/emails/2017/global/fonts/ClanProForUBER-Thin.ttf') format('truetyp=
+e');
+		font-weight: normal !important;
+		font-style: normal !important;
+		mso-font-alt: 'Arial'
+	}
+	@font-face {
+		font-family: 'ClanPro-Book';
+		src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts/C=
+lanProForUBER-Book.woff') format('woff'), url('https://s3.amazonaws.com/ube=
+r-static/emails/2017/global/fonts/ClanProForUBER-Book.ttf') format('truetyp=
+e');
+		font-weight: normal !important;
+		font-style: normal !important;
+		mso-font-alt: 'Arial'
+	}
+	@font-face {
+		font-family: 'ClanPro-News';
+		src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts/C=
+lanProForUBER-News.woff') format('woff'), url('https://s3.amazonaws.com/ube=
+r-static/emails/2017/global/fonts/ClanProForUBER-News.ttf') format('truetyp=
+e');
+		font-weight: normal !important;
+		font-style: normal !important;
+		mso-font-alt: 'Arial'
+	}
+	@font-face {
+		font-family: 'ClanPro-Medium';
+		src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts/C=
+lanProForUBER-Medium.woff') format('woff'), url('https://s3.amazonaws.com/u=
+ber-static/emails/2017/global/fonts/ClanProForUBER-Medium.ttf') format('tru=
+etype');
+		font-weight: normal !important;
+		font-style: normal !important;
+		mso-font-alt: 'Arial'
+	}
+
+  // UberMove
+
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMove-Light.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMove-Light.woff')
+        format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMove-Regular.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMove-Regular.woff')
+        format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMove-Medium.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMove-Medium.woff')
+        format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMove-Bold.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMove-Bold.woff')
+        format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMoveText-Light.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMoveText-Light.woff')
+        format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMoveText-Regular.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMoveText-Regular.woff')
+        format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMoveText-Medium.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMoveText-Medium.woff')
+        format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts=
+/UberMoveText-Bold.woff2')
+        format('woff2'),
+      url('https://s3.amazonaws.com/uber-static/emails/2019/global/fonts/Ub=
+erMoveText-Bold.woff')
+        format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    mso-font-alt: 'Arial'
+  }
+}
+.btn a:hover {
+	background-color: #007279 !important;
+	border-color: #007279 !important;
+}
+.textcta a:hover {
+	color: #007279 !important;
+}
+a[x-apple-data-detectors] {
+	color: inherit !important;
+	text-decoration: none !important;
+	font-size: inherit !important;
+	font-family: inherit !important;
+	font-weight: inherit !important;
+	line-height: inherit !important
+}
+
+@media yahoo {
+    .wrapper {
+      min-width: 700px!important;
+    }
+    * {
+      overflow: visible!important
+    }
+    .y-overflow-hidden {
+      overflow: hidden!important
+    }
+  }
+
+</style><style>
+    @media yahoo {
+  .wrapper {min-width:700px!important;}
+}
+
+
+
+
+
+
+@media screen {
+  @font-face {
+    font-family: 'Uber18-Bold';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts=
+/uber18/Uber_Bold_180627.woff') format('woff'), url('https://s3.amazonaws.c=
+om/uber-static/emails/2017/global/fonts/uber18/Uber_Bold_180627.ttf') forma=
+t('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial'
+  }
+
+  @font-face {
+    font-family: 'Uber18-Medium';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts=
+/uber18/Uber_Medium_180627.woff') format('woff'), url('https://s3.amazonaws=
+.com/uber-static/emails/2017/global/fonts/uber18/Uber_Medium_180627.ttf') f=
+ormat('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial'
+  }
+
+  @font-face {
+    font-family: 'Uber18-text-Regular';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts=
+/uber18/Uber_Text_Regular_180627.woff') format('woff'), url('https://s3.ama=
+zonaws.com/uber-static/emails/2017/global/fonts/uber18/Uber_Text_Regular_18=
+0627.ttf') format('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial'
+  }
+
+  @font-face {
+    font-family: 'Uber18-Text-Bold';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts=
+/uber18/Uber_Text_Bold_180627.woff') format('woff'), url('https://s3.amazon=
+aws.com/uber-static/emails/2017/global/fonts/uber18/Uber_Text_Bold_180627.t=
+tf') format('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial'
+  }
+
+  @font-face {
+    font-family: 'Uber18-Text-Medium';
+    src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts=
+/uber18/Uber_Text_Medium_180627.woff') format('woff'), url('https://s3.amaz=
+onaws.com/uber-static/emails/2017/global/fonts/uber18/Uber_Text_Medium_1806=
+27.ttf') format('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial'
+  }
+}
+
+
+/* Font class */
+
+
+.Uber18_text_p1 {
+  font-size: 16px;
+  line-height: 28px;
+  font-family: UberMoveText, "Open Sans", "Helvetica Neue", Helvetica, sans=
+-serif;
+  font-weight: 400;
+  color: #000000;
+}
+
+.Uber18_text_p2 {
+  font-size: 16px;
+  line-height: 28px;
+  font-family: UberMoveText, "Open Sans", "Helvetica Neue", Helvetica, sans=
+-serif;
+  font-weight: 600;
+  color: #000000;
+}
+
+.Uber18_text_p3 {
+  font-size: 16px;
+  line-height: 28px;
+  font-family: UberMoveText, "Open Sans", "Helvetica Neue", Helvetica, sans=
+-serif;
+  font-weight: 500;
+  color: #000000;
+}
+
+
+.Uber18_p2 {
+  font-size: 16px;
+  line-height: 28px;
+  font-family: UberMove, 'Open Sans', 'Helvetica Neue', Helvetica, sans-ser=
+if;
+  font-weight: 600;
+  color: #000000;
+}
+
+.Uber18_p3 {
+  font-size: 16px;
+  line-height: 28px;
+  font-family: UberMove, 'Open Sans', 'Helvetica Neue', Helvetica, sans-ser=
+if;
+  font-weight: 500;
+  color: #888888;
+}
+
+/* Font class */
+
+.non_email_header {
+  display: flex;
+  padding: 0 24px;
+}
+
+.non_email_header .fake_header_white_plane {
+  width: 50px;
+  height: 70px;
+  position: absolute;
+  right: -24px;
+  bottom: 0;
+  background-color: white;
+}
+
+.web_eats_footer_links {
+  padding: 0 85px;
+}
+
+.grey_divider {
+  width: 100%;
+  height: 1px;
+  background-color: #E2E2E2;
+}
+
+html:not(.email_receipt) .total_head {
+  font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans=
+-serif;
+  font-size: 26px !important;
+  line-height: 32px !important;
+}
+
+.non_email_header {
+  padding: 0 24px;
+}
+
+.non_email_header .fake_header_white_plane {
+  width: 50px;
+  right: -24px;
+}
+
+.mobileMap, .mobileContent { display: none; }
+.btn a:hover{background-color: #084FD2 !important; border-color: #084FD2 !i=
+mportant}
+.textcta a:hover{color: #084FD2 !important;}
+.btn_green a:hover {background-color: #006900 !important;border-color: #006=
+900 !important;}
+.textcta_green a:hover {color: #006900 !important;}
+.receipt_body { max-width: 648px; }
+
+@media screen and (max-width:9000px) {
+  .header_h2 { font-size: 30px !important; line-height: 40px !important; fo=
+nt-weight: 500; word-break: break-word; }
+  .header_h3 { font-size: 44px !important; line-height: 48px !important; }
+  .header_Uber18_text_p1{ font-size: 22px !important;}
+  .bannerDivider_eats{border-right: 1px solid #ffffff;}
+}
+
+@media screen and (max-width:1105px) {
+  u ~ div .gmail_header_icon_table{
+      float:right !important;
+  }
+}
+
+@media screen and (max-width:3000px) {
+  .desktopPipe{ display: block !important;  }
+  .bannerDivider{ border-right: 1px solid #ffffff !important;  }
+}
+
+@media screen and (min-width:700px) {
+    .non_email_header {
+      padding: 0 85px;
+    }
+    .non_email_header .fake_header_white_plane {
+      width: 100px;
+      right: -85px;
+    }
+}
+
+@media screen and (max-width:699px) {
+  .desktopMap,.desktopPipe { display: none !important;  }
+  .mobileMap{ display: block !important; }
+  .bannerPipe{ border: none !important; display: block !important; padding-=
+top: 8px !important; padding-bottom: 8px !important }
+  .bannerDivider{ border: none !important;  }
+  .visa_m_vertical_pad{ padding-top: 34px !important; padding-bottom: 34px =
+!important;  }
+  .mobileContent *{ max-width: none !important; max-height: none !important=
+;  }
+  .mobileCard_b_pad{ padding-bottom: 15px !important }
+  .flag{ padding-left: 12px !important; padding-right: 12px !important;  }
+  .headline{ font-size: 36px !important; padding-bottom: 35px !important; }
+  .header_illustrator{margin: 0 auto!important;}
+  .header_icon{margin: 0 0 0 auto;}
+  .mobile_img{ width: 100% !important; height: auto !important; max-width: =
+100% !important; max-height: none !important; }
+  .desktopContent{ display: none !important; }
+  .mobileContent{ display: block !important; }
+  .receipt_body { max-width: none !important; }
+  .web_eats_footer_links { padding: 0 24px !important; }
+}
+
+@media screen and (max-width:415px) {
+  .header_bg_rider{background-image: url('https://s3.amazonaws.com/uber-sta=
+tic/emails/2017/01/receipt/R-Default-1M.png') !important}
+  .header_bg_eats_default{background-image: url('https://s3.amazonaws.com/u=
+ber-static/emails/2017/01/receipt/E-Default-1M.png') !important}
+  .header_bg_eats_tip_added{background-image: url('https://s3.amazonaws.com=
+/uber-static/emails/2017/01/receipt/E-Tip-2M.png') !important}
+  .header_bg_eats_refund{background-image: url('https://s3.amazonaws.com/ub=
+er-static/emails/2017/01/receipt/E-Refund-3M.png') !important}
+
+  .header_headline{ font-size: 24px !important  }
+  .bannerDivider_eats{ border: none !important;  }
+  .eats_footer_table{ max-width: none !important; width: 100% !important;  }
+  .eats_footer_table *{ text-align: left !important;}
+  .eats_option_item{ padding-left: 15px !important;}
+  .header_h2 { font-size: 24px !important; line-height: 32px !important; }
+  .header_h3 { font-size: 34px !important; line-height: 38px !important; }
+  .header_Uber18_text_p1{ font-size: 20px !important;}
+  .logo{padding-top: 25px !important;}
+  .flag{padding-left: 11px !important; padding-right: 10px !important;}
+  .desktopContent{ display: none !important; }
+  .mobileContent{ display: block !important; }
+}
+
+@media screen and (max-width:350px) {
+  .eats_option_item{ padding-left: 0px !important;  }
+}
+
+.cta {font-size: 14px;line-height: 20px;font-family: UberMoveText, "Open Sa=
+ns", "Helvetica Neue", Helvetica, sans-serif !important; font-weight: 600;}
+
+
+</style><!--[if (gte mso 9)|(IE)]>
+<style>
+  .desktopPipe{ display: block !important;  }
+  .bannerDivider{ border-right: 1px solid #ffffff !important;  }
+</style>
+<![endif]--></head><body style=3D"-ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; background-color: #d6d6d5; margin: 0; min-width: 100%; p=
+adding: 0; width: 100%;"><table width=3D"100%" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"background-color: #d6d6d5; border: none; bord=
+er-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%;" bgcolor=3D"#d6d6d5" class><tr><td align=3D"center"><=
+!--[if (gte mso 9)|(IE)]>
+        <table width=3D"700" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+          <tr>
+            <td>
+              <![endif]--><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border: none; border-collapse: collapse; bor=
+der-spacing: 0; max-width: 700px; mso-table-lspace: 0; mso-table-rspace: 0;=
+ width: 100%;" class=3D"wrapper"><tr><td style=3D"background-color:#ffffff;=
+" align=3D"center"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"border: none; border-collapse: collapse; border-spa=
+cing: 0; margin: auto; max-width: 700px; mso-table-lspace: 0; mso-table-rsp=
+ace: 0; width: 100%;" class=3D"tron"><tr><td align=3D"center"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgro=
+und-color: #ffffff; border: none; border-collapse: collapse; border-spacing=
+: 0; margin: auto; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" =
+bgcolor=3D"#ffffff" class=3D"basetable"><tr><td align=3D"center"><!--[if (g=
+te mso 9)|(IE)]>
+                                <table width=3D"700" align=3D"center" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <![endif]--><table width=3D"100%" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"basetable" style=3D"=
+border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspac=
+e: 0; mso-table-rspace: 0; width: 100%;"><tr><td align=3D"center" style=3D"=
+background-color:#ffffff;"><!-- open wrapper --><!-- open wrapper --><table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"b=
+asetable" style=3D"border: none; border-collapse: collapse; border-spacing:=
+ 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tr><td><!--[if=
+ (gte mso 9)|(IE)]>
+                                                  <table width=3D"700" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td>
+                                                        <![endif]--><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"ba=
+setable" style=3D"border: none; border-collapse: collapse; border-spacing: =
+0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tr><td bgcolor=
+=3D"#ffffff"><!--[if (gte mso 9)|(IE)]>
+                                                              <table width=
+=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                                <tr>
+                                                                  <td>
+                                                                    <![endi=
+f]--><!-- content goes here --><!-- Logo bar  --><!-- Logo bar --><table wi=
+dth=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bord=
+er: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0=
+; mso-table-rspace: 0; width: 100%;"><tbody><tr><td class align=3D"left" st=
+yle=3D"direction: ltr; text-align: left;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: collapse; =
+border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" =
+class><tbody><tr><td bgcolor=3D"#C6DAFF" style=3D"direction: ltr; text-alig=
+n: left;"><!-- Content --><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border: none; border-collapse: collapse; bor=
+der-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tb=
+ody><tr><td width=3D"14" style=3D"direction: ltr; text-align: left;">&nbsp;=
+</td><td align=3D"left" style=3D"direction: ltr; text-align: left;"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; bor=
+der-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-r=
+space: 0; width: 100%;" class><tbody><tr><td align=3D"center"><!--[if (gte =
+mso 9)|(IE)]>
+                        <table width=3D"616" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td>
+                              <![endif]--><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"t11of12 layout" align=3D"center" style=3D=
+"border: none; border-collapse: collapse; border-spacing: 0; max-width: 616=
+px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td =
+align=3D"center" style=3D"font-size: 1px; height: 1px; line-height: 1px; pa=
+dding-left: 0px !important; padding-right: 0px !important;"><!--[if (gte ms=
+o 9)|(IE)]>
+                                    <table width=3D"560" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                      <tr>
+                                        <td>
+                                          <![endif]--><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" class=3D"t10of12 layout" align=3D"center=
+" style=3D"border: none; border-collapse: collapse; border-spacing: 0; max-=
+width: 560px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbod=
+y><tr><td width=3D"12" style=3D"font-size: 1px; height: 1px; line-height: 1=
+px; padding-left: 0px !important; padding-right: 0px !important; direction:=
+ ltr; text-align: left;">&nbsp;</td><td style=3D"font-size: 1px; height: 1p=
+x; line-height: 1px; padding-left: 0px !important; padding-right: 0px !impo=
+rtant; direction: ltr; text-align: left;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"border: non=
+e; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-t=
+able-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td style=3D"=
+direction: ltr; text-align: left;"><!-- logo --><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-c=
+ollapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace=
+: 0; width: 100%;"><tbody><tr><td class=3D"logo" align=3D"left" style=3D"pa=
+dding-top: 45px; padding-bottom: 40px; direction: ltr; text-align: left;" v=
+align=3D"middle"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-tabl=
+e-lspace: 0; mso-table-rspace: 0; width: 100%;" class><tbody><tr><td class=
+=3D"Uber18_text_p1 black" valign=3D"top" align=3D"left" style=3D"color: #00=
+0000; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, =
+sans-serif; font-size: 30px; line-height: 30px; padding-right: 12px; paddin=
+g-top: 5px; direction: ltr; text-align: left;"><img src=3D"https://d1a3f4sp=
+azzrp4.cloudfront.net/receipt_v3/receipt_uber_logo.png" width=3D"69" height=
+ border=3D"0" style=3D"-ms-interpolation-mode: bicubic; clear: both; displa=
+y: block; width: 100%; height: auto; max-height: 24px; max-width: 69px; min=
+-height: 19px; min-width: 53px; outline: none; text-decoration: none;"></td=
+><td class=3D"Uber18_text_p1 black" width=3D"80%" align=3D"right" style=3D"=
+color: #000000; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', H=
+elvetica, sans-serif; font-size: 12px; line-height: 18px; text-align: right=
+; direction: ltr;" valign=3D"middle"><div>Cancellation Fee: <span class=3D"=
+Uber18_text_p2" style=3D"color: #000000; font-family: UberMoveText, 'Open S=
+ans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; line-height=
+: 18px;"> =E2=82=B947.25 </span></div><span class=3D"Uber18_text_p1 black" =
+style=3D"color: #000000; font-family: UberMoveText, 'Open Sans', 'Helvetica=
+ Neue', Helvetica, sans-serif; font-size: 12px; line-height: 15px;"> Tue, O=
+ct 15, 2019 </span></td></tr></tbody></table></td></tr></tbody></table><!--=
+ close logo --></td></tr></tbody></table></td><td width=3D"12" style=3D"fon=
+t-size: 1px; height: 1px; line-height: 1px; padding-left: 0px !important; p=
+adding-right: 0px !important; direction: ltr; text-align: left;">&nbsp;</td=
+></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <![endif]--></td></tr></tbody></table><=
+!--[if (gte mso 9)|(IE)]>
+                            </td>
+                          </tr>
+                        </table>
+                        <![endif]--></td></tr></tbody></table></td><td widt=
+h=3D"14" style=3D"direction: ltr; text-align: left;">&nbsp;</td></tr></tbod=
+y></table><!-- close content --></td></tr></tbody></table></td></tr></tbody=
+></table><!-- Close Logo bar --><!-- Logo bar Insert here --><!-- Header --=
+><!-- Header - Rider --><table width=3D"100%" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"border: none; border-collapse: collapse; borde=
+r-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbod=
+y><tr><td class align=3D"left" style=3D"direction: ltr; text-align: left;">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: no=
+ne; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-=
+table-rspace: 0; width: 100%;" class><tbody><tr><td background=3D"https://s=
+3.amazonaws.com/uber-static/emails/2017/01/receipt_18_headerbg.png" bgcolor=
+=3D"#C6DAFF" width=3D"700" valign=3D"top" style=3D"background-repeat: no-re=
+peat; background-position: right bottom; direction: ltr; text-align: left;"=
+><!--[if gte mso 9]>
+            <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true"=
+ stroke=3D"false" style=3D"width:700px;">
+            <v:fill type=3D"frame" origin=3D"0, 1" position=3D"0,1" src=3D"=
+https://s3.amazonaws.com/uber-static/emails/2017/01/receipt_18_headerbg.png=
+" color=3D"#C6DAFF" />
+            <v:textbox style=3D"mso-fit-shape-to-text:true" inset=3D"0,0,0,=
+0">
+            <![endif]--><div><div style=3D"font-size:0;line-height:0;"><!--=
+ Content --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border: none; border-collapse: collapse; border-spacing: 0=
+; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td wi=
+dth=3D"14" style=3D"direction: ltr; text-align: left;">&nbsp;</td><td align=
+=3D"left" style=3D"direction: ltr; text-align: left;"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: =
+collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; widt=
+h: 100%;" class><tbody><tr><td align=3D"center"><!--[if (gte mso 9)|(IE)]>
+                          <table width=3D"616" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                            <tr>
+                              <td>
+                                <![endif]--><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"t11of12 layout" align=3D"center" style=3D=
+"border: none; border-collapse: collapse; border-spacing: 0; max-width: 616=
+px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td =
+align=3D"center" style=3D"font-size: 1px; height: 1px; line-height: 1px; pa=
+dding-left: 0px !important; padding-right: 0px !important;"><!--[if (gte ms=
+o 9)|(IE)]>
+                                      <table width=3D"560" align=3D"center"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td>
+                                            <![endif]--><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" class=3D"t10of12 layout" align=3D"cent=
+er" style=3D"border: none; border-collapse: collapse; border-spacing: 0; ma=
+x-width: 560px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tb=
+ody><tr><td width=3D"12" style=3D"font-size: 1px; height: 1px; line-height:=
+ 1px; padding-left: 0px !important; padding-right: 0px !important; directio=
+n: ltr; text-align: left;">&nbsp;</td><td style=3D"font-size: 1px; height: =
+1px; line-height: 1px; padding-left: 0px !important; padding-right: 0px !im=
+portant; direction: ltr; text-align: left;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"border: non=
+e; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-t=
+able-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td style=3D"=
+direction: ltr; text-align: left;"><!-- header --><table width=3D"100%" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border=
+-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspa=
+ce: 0; width: 100%;"><tbody><tr><td class align=3D"left" style=3D"font-size=
+: 0px; direction: ltr; text-align: left;"><!--[if (gte mso 9)|(IE)]>
+                                                              <table width=
+=3D"392" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                                <tr>
+                                                                  <td>
+                                                                    <![endi=
+f]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t7of1=
+2 layout" style=3D"border: none; border-collapse: collapse; border-spacing:=
+ 0; display: inline-block; max-width: 392px; mso-table-lspace: 0; mso-table=
+-rspace: 0; vertical-align: bottom; width: 100%;"><tbody><tr><td style=3D"f=
+ont-size: 1px; height: 1px; line-height: 1px; padding-left: 0px !important;=
+ padding-right: 0px !important; direction: ltr; text-align: left;"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"lef=
+t" style=3D"border: none; border-collapse: collapse; border-spacing: 0; mso=
+-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><=
+tbody><tr><td class=3D"Uber18_p3 black header_h3" style=3D"color: #000000; =
+font-family: UberMove, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif=
+; font-size: 34px; line-height: 38px; padding-bottom: 13px; direction: ltr;=
+ text-align: left;"> We'll connect another time, Shaafi </td></tr><tr><td c=
+lass=3D"Uber18_text_p1 black" style=3D"color: #000000; font-family: UberMov=
+eText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16p=
+x; line-height: 28px; direction: ltr; text-align: left;"><!--[if (gte mso 9=
+)|(IE)]>
+                                                                           =
+     <table width=3D"308" align=3D"left" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">
+                                                                           =
+       <tr>
+                                                                           =
+         <td>
+                                                                           =
+           <![endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"t6of12 layout" align=3D"left" style=3D"border: none; border-co=
+llapse: collapse; border-spacing: 0; max-width: 308px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%;"><tbody><tr><td style=3D"font-size: 1px;=
+ height: 1px; line-height: 1px; padding-left: 0px !important; padding-right=
+: 0px !important; direction: ltr; text-align: left;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"bo=
+rder: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace:=
+ 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td =
+class=3D"Uber18_text_p1 black header_Uber18_text_p1" style=3D"color: #00000=
+0; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, san=
+s-serif; font-size: 20px; line-height: 26px; padding-bottom: 40px; directio=
+n: ltr; text-align: left;"> Here's the receipt for your canceled trip. </td=
+></tr></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                                                           =
+         </td>
+                                                                           =
+       </tr>
+                                                                           =
+     </table>
+                                                                           =
+     <![endif]--></td></tr></tbody></table></td></tr></tbody></table><!--[i=
+f (gte mso 9)|(IE)]>
+                                                                  </td>
+                                                                </tr>
+                                                              </table>
+                                                              <![endif]--><=
+!--[if (gte mso 9)|(IE)]></td>
+                                                            <td valign=3D"b=
+ottom">
+                                                              <![endif]--><=
+!--[if (gte mso 9)|(IE)]>
+                                                              <table width=
+=3D"144" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                                <tr>
+                                                                  <td>
+                                                                    <![endi=
+f]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t3of1=
+2 layout gmail_header_icon_table" style=3D"border: none; border-collapse: c=
+ollapse; border-spacing: 0; display: inline-block; max-width: 144px; mso-ta=
+ble-lspace: 0; mso-table-rspace: 0; vertical-align: bottom; width: 100%;"><=
+tbody><tr><td style=3D"font-size: 1px; height: 1px; line-height: 1px; paddi=
+ng-left: 0px !important; padding-right: 0px !important; direction: ltr; tex=
+t-align: left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" align=3D"left" style=3D"border: none; border-collapse: collapse=
+; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout=
+: fixed; width: 100%;"><tbody><tr><td style=3D"padding-top: 0px; direction:=
+ ltr; text-align: left;"><img class=3D"header_icon" src=3D"https://d1a3f4sp=
+azzrp4.cloudfront.net/receipt_v3/receipt_18_rider_default.png" width=3D"144=
+" height border=3D"0" style=3D"-ms-interpolation-mode: bicubic; clear: both=
+; display: block; height: auto; margin: 0 0 0 auto; max-height: 144px; max-=
+width: 144px; outline: none; text-decoration: none; width: 100%;"></td></tr=
+></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                                                  </td>
+                                                                </tr>
+                                                              </table>
+                                                              <![endif]--><=
+/td></tr></tbody></table><!-- close header --></td></tr></tbody></table></t=
+d><td width=3D"12" style=3D"font-size: 1px; height: 1px; line-height: 1px; =
+padding-left: 0px !important; padding-right: 0px !important; direction: ltr=
+; text-align: left;">&nbsp;</td></tr></tbody></table><!--[if (gte mso 9)|(I=
+E)]>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                      <![endif]--></td></tr></tbody></table=
+><!--[if (gte mso 9)|(IE)]>
+                              </td>
+                            </tr>
+                          </table>
+                          <![endif]--></td></tr></tbody></table></td><td wi=
+dth=3D"14" style=3D"direction: ltr; text-align: left;">&nbsp;</td></tr></tb=
+ody></table><!-- close content --></div></div><!--[if gte mso 9]>
+            </v:textbox>
+            </v:rect>
+            <![endif]--></td></tr></tbody></table></td></tr></tbody></table=
+><!-- close Header - Rider --><!-- close Header --><!-- Fare breakdown --><=
+!-- Fare breakdown --><table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"border: none; border-collapse: collapse; border-=
+spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tr><td=
+ class align=3D"center" style=3D"background-color: ##ffffff;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-co=
+llapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace:=
+ 0; width: 100%;" class><tr><td align=3D"center"><!--[if (gte mso 9)|(IE)]>
+            <table width=3D"648" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" style=3D"border:none;border-collapse:collapse;mso-t=
+able-lspace:0;mso-table-rspace:0;">
+              <tr>
+                <td align=3D"center" style=3D"text-align:center;" bgcolor=
+=3D"#ffffff">
+                  <![endif]--><table class=3D"receipt_body" width=3D"100%" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; bor=
+der-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-r=
+space: 0; width: 100%;" bgcolor=3D"#ffffff"><tr><td class=3D"outsidegutter"=
+ align=3D"left" bgcolor=3D"#ffffff" style=3D"padding: 45px 14px 0px 14px; d=
+irection: ltr; text-align: left;"><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"border: none; border-collapse: collapse; border-spa=
+cing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" class><tr>=
+<td align=3D"center"><!-- main content wrapper--><!--[if (gte mso 9)|(IE)]>
+                              <table width=3D"560" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0">
+                                <tr>
+                                  <td>
+                                    <![endif]--><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"t10of12" style=3D"border: none; borde=
+r-collapse: collapse; border-spacing: 0; max-width: 560px; mso-table-lspace=
+: 0; mso-table-rspace: 0; width: 100%;"><tr><td style=3D"padding-left: 0px;=
+ padding-right: 0px;"><!-- section --><!-- Total section --><table width=3D=
+"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: no=
+ne; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-=
+table-rspace: 0; width: 100%;"><tr><td align=3D"left" style=3D"padding-left=
+: 12px; padding-right: 12px;"><!-- Total --><!-- Refund item --><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-=
+collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspac=
+e: 0; width: 100%;" class><tbody><tr><td class=3D"Uber18_p3 black total_hea=
+d" valign=3D"top" align=3D"left" style=3D"color: rgb(0, 0, 0); font-family:=
+ UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-s=
+ize: 44px; line-height: 44px; padding-right: 12px; direction: ltr; text-ali=
+gn: left;"> Total </td><td class=3D"Uber18_p3 total_head" valign=3D"top" al=
+ign=3D"right" style=3D"color: rgb(204, 0, 0); font-family: UberMoveText, 'O=
+pen Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 44px; line-h=
+eight: 44px; text-align: right; direction: ltr;"> =E2=82=B947.25 </td></tr>=
+</tbody></table><!-- close Refund item --><!-- close Total --></td></tr></t=
+able><!-- End Total section --><!-- Loyalty section --><!-- End loyalty sec=
+tion --><!-- Flags section --><!-- Flag --><table width=3D"100%" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collap=
+se: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; =
+width: 100%;"><tr><td align=3D"left" style=3D"padding-left: 12px; padding-r=
+ight: 12px;"><!-- rounded red retangular box --><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border: none; border-c=
+ollapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace=
+: 0; width: 100%;"><tbody><tr><td class=3D"Uber18_text_p1" valign=3D"top" a=
+lign=3D"left" style=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Ope=
+n Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; line-hei=
+ght: 28px; padding-bottom: 30px; padding-top: 30px; direction: ltr; text-al=
+ign: left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"border: none; border-collapse: collapse; border-spacing:=
+ 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td =
+class=3D"Uber18_text_p1 flag" valign=3D"top" align=3D"left" style=3D"border=
+: 2px solid #f25138; border-left: 16px solid #F25138; color: rgb(0, 0, 0); =
+font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-s=
+erif; font-size: 16px; line-height: 20px; padding: 16px 16px; direction: lt=
+r; text-align: left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" style=3D"border: none; border-collapse: collapse; border-=
+spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody>=
+<tr><td> To compensate drivers for the inconvenience, a fee is charged if y=
+ou cancel a request 5 minutes after a driver accepts your ride. A cancellat=
+ion fee of 47.25 will be due on your next ride. </td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table><!-- rounded red retangu=
+lar box --></td></tr></table><!-- close Flag --><!-- End Flags section --><=
+!-- Fare Breakdown section --><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: collapse;=
+ border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"=
+><tr><td align=3D"left" style=3D"padding-left: 12px; padding-right: 12px;">=
+<!-- Fare item --><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" style=3D"border: none; border-collapse: collapse; border-spac=
+ing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tr><td cla=
+ss=3D"Uber18_text_p1" valign=3D"top" align=3D"left" style=3D"color: rgb(0, =
+0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica,=
+ sans-serif; font-size: 16px; line-height: 28px; padding-bottom: 5px; paddi=
+ng-right: 12px; padding-top: 5px; direction: ltr; text-align: left;"> Cance=
+llation Fee <!--[if (gte mso 9)]>&nbsp;<![endif]--></td><td class=3D"Uber18=
+_text_p1" valign=3D"top" align=3D"right" style=3D"color: rgb(0, 0, 0); font=
+-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif=
+; font-size: 16px; line-height: 28px; padding-bottom: 5px; padding-right: 0=
+px; padding-top: 5px; text-align: right; direction: ltr;"> =E2=82=B947.25 <=
+/td></tr></table><!-- close Fare item --><!-- hr --><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border: none; bord=
+er-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%;"><tbody><tr><td style=3D"padding-top: 26px; padding-b=
+ottom: 26px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" align=3D"left" style=3D"border: none; border-collapse: collapse; =
+border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: =
+fixed; width: 100%;"><tbody><tr><td valign=3D"top" align=3D"left" style=3D"=
+font-size: 1px; line-height: 1px; background-color: #E2E2E2"> &nbsp; </td><=
+/tr></tbody></table></td></tr></tbody></table><!-- end hr --><!-- Subtotal =
+Fare --><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" style=3D"border: none; border-collapse: collapse; border-spacing: 0; ms=
+o-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tr><td class=3D"Uber=
+18_text_p3" valign=3D"top" align=3D"left" style=3D"color: rgb(0, 0, 0); fon=
+t-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-seri=
+f; font-size: 16px; line-height: 28px; padding-bottom: 5px; padding-right: =
+12px; padding-top: 5px; direction: ltr; text-align: left;"> Subtotal </td><=
+td class=3D"Uber18_text_p3" valign=3D"top" align=3D"right" style=3D"color: =
+rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Hel=
+vetica, sans-serif; font-size: 16px; line-height: 28px; padding-bottom: 5px=
+; padding-top: 5px; text-align: right; direction: ltr;"> =E2=82=B947.25 </t=
+d></tr></table><!-- Settled Trips --><!-- Deducted credits --><!-- End Dedu=
+cted credits --><!-- Tax Summary section --><!-- hr --><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border: none; b=
+order-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table=
+-rspace: 0; width: 100%;"><tbody><tr><td style=3D"padding-top: 26px; paddin=
+g-bottom: 26px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" align=3D"left" style=3D"border: none; border-collapse: collaps=
+e; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layou=
+t: fixed; width: 100%;"><tbody><tr><td valign=3D"top" align=3D"left" style=
+=3D"font-size: 1px; line-height: 1px; background-color: #E2E2E2"> &nbsp; </=
+td></tr></tbody></table></td></tr></tbody></table><!-- end hr --><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"borde=
+r: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%;"><tr><td class=3D"Uber18_text_p1" valign=
+=3D"top" align=3D"left" style=3D"color: rgb(0, 0, 0); font-family: UberMove=
+Text, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px=
+; line-height: 28px; padding-bottom: 5px; padding-right: 12px; padding-top:=
+ 5px; direction: ltr; text-align: left;"> Before Taxes </td><td class=3D"Ub=
+er18_text_p1" valign=3D"top" align=3D"right" style=3D"color: rgb(0, 0, 0); =
+font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-s=
+erif; font-size: 16px; line-height: 28px; padding-bottom: 5px; padding-righ=
+t: 0px; padding-top: 5px; text-align: right; direction: ltr;"> =E2=82=B944.=
+99 </td></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" style=3D"border: none; border-collapse: collapse; border-s=
+pacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tr><td =
+class=3D"Uber18_text_p1" valign=3D"top" align=3D"left" style=3D"color: rgb(=
+0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helveti=
+ca, sans-serif; font-size: 16px; line-height: 28px; padding-bottom: 5px; pa=
+dding-right: 12px; padding-top: 5px; direction: ltr; text-align: left;"> CG=
+ST (2.5%) </td><td class=3D"Uber18_text_p1" valign=3D"top" align=3D"right" =
+style=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helv=
+etica Neue', Helvetica, sans-serif; font-size: 16px; line-height: 28px; pad=
+ding-bottom: 5px; padding-right: 0px; padding-top: 5px; text-align: right; =
+direction: ltr;"> =E2=82=B91.13 </td></tr></table><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border: none; border=
+-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspa=
+ce: 0; width: 100%;"><tr><td class=3D"Uber18_text_p1" valign=3D"top" align=
+=3D"left" style=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sa=
+ns', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; line-height:=
+ 28px; padding-bottom: 5px; padding-right: 12px; padding-top: 5px; directio=
+n: ltr; text-align: left;"> SGST/UTGST (2.5%) </td><td class=3D"Uber18_text=
+_p1" valign=3D"top" align=3D"right" style=3D"color: rgb(0, 0, 0); font-fami=
+ly: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; fon=
+t-size: 16px; line-height: 28px; padding-bottom: 5px; padding-right: 0px; p=
+adding-top: 5px; text-align: right; direction: ltr;"> =E2=82=B91.13 </td></=
+tr></table><!-- Not Taxable charges --></td></tr></table><!-- End Fare Brea=
+kdown section --><!-- Fare Breakdown Card section --><table width=3D"100%" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; bor=
+der-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-r=
+space: 0; width: 100%;"><tr><td align=3D"left" style=3D"padding-left: 12px;=
+ padding-right: 12px;"><!-- hr --><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" style=3D"border: none; border-collapse: colla=
+pse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 10=
+0%;"><tbody><tr><td style=3D"padding-top: 26px; padding-bottom: 26px;"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D=
+"left" style=3D"border: none; border-collapse: collapse; border-spacing: 0;=
+ mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%=
+;"><tbody><tr><td valign=3D"top" align=3D"left" style=3D"font-size: 1px; li=
+ne-height: 1px; background-color: #E2E2E2"> &nbsp; </td></tr></tbody></tabl=
+e></td></tr></tbody></table><!-- end hr --><!-- Amount charged item - Heade=
+r --><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-t=
+able-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td class=3D"=
+Uber18_text_p3" valign=3D"top" align=3D"left" style=3D"color: rgb(0, 0, 0);=
+ font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-=
+serif; font-size: 16px; line-height: 28px; padding-bottom: 5px; padding-rig=
+ht: 12px; padding-top: 5px; direction: ltr; text-align: left;"> Amount Char=
+ged </td><td class=3D"Uber18_text_p1" valign=3D"top" align=3D"right" style=
+=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica=
+ Neue', Helvetica, sans-serif; font-size: 16px; line-height: 28px; padding-=
+bottom: 5px; padding-top: 5px; direction: ltr; text-align: left;"> &nbsp; <=
+/td></tr></tbody></table><!-- close Amount charged item - Header --><!-- Am=
+ount charged item --><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" style=3D"border: none; border-collapse: collapse; border-s=
+pacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><=
+tr><td class=3D"Uber18_text_p1 mobileCard_b_pad" valign=3D"middle" align=3D=
+"left" style=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans'=
+, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; line-height: 28=
+px; padding-bottom: 5px; padding-right: 12px; padding-top: 5px; direction: =
+ltr; text-align: left;"><!-- content --><table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse:=
+ collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; wid=
+th: 100%;"><tbody><tr><td align=3D"left" style=3D"direction: ltr; text-alig=
+n: left;"><!--[if (gte mso 9)|(IE)]><table width=3D"initial" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]--><table align=3D"left=
+" width=3D"initial" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-table-l=
+space: 0; mso-table-rspace: 0; width: initial;"><tbody><tr><td align=3D"lef=
+t" width=3D"45" style=3D"padding-top: 2px; padding-bottom: 2px; direction: =
+ltr; text-align: left;"><img id=3D"cash_icon" src=3D"https://d1a3f4spazzrp4=
+.cloudfront.net/receipt_v3/Ub__ic_Cash_33x23@2x.png" width=3D"35" height=3D=
+"23" border=3D"0" style=3D"-ms-interpolation-mode: bicubic; clear: both; di=
+splay: inline-block; height: 23px; max-width: 100%; outline: none; padding-=
+right: 18px; text-decoration: none; vertical-align: middle; width: 32px;"><=
+/td></tr></tbody></table><!--[if (gte mso 9)|(IE)]></td><![endif]--><!--[if=
+ (gte mso 9)|(IE)]><td><![endif]--><table align=3D"left" width=3D"initial" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; bor=
+der-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-r=
+space: 0; width: initial;"><tbody><tr><td class=3D"Uber18_text_p1" align=3D=
+"left" style=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans'=
+, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; line-height: 28=
+px; padding-bottom: 2px; padding-right: 5px; padding-top: 2px; direction: l=
+tr; text-align: left;"> Paid in cash </td></tr></tbody></table><!--[if (gte=
+ mso 9)|(IE)]></td><![endif]--><!--[if (gte mso 9)|(IE)]><td><![endif]--><t=
+able class=3D"desktopPipe" align=3D"left" width=3D"initial" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: c=
+ollapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width=
+: initial;"><tbody><tr><td class=3D"Uber18_text_p1" align=3D"left" style=3D=
+"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica Ne=
+ue', Helvetica, sans-serif; font-size: 16px; line-height: 28px; padding-bot=
+tom: 2px; padding-right: 5px; padding-top: 2px; direction: ltr; text-align:=
+ left;"><span class=3D"desktopPipe" style=3D"display: none; mso-hide: all; =
+color: #E2E2E2;">|</span></td></tr></tbody></table><!--[if (gte mso 9)|(IE)=
+]></td><![endif]--><!--[if (gte mso 9)|(IE)]><td><![endif]--><table align=
+=3D"left" width=3D"initial" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-=
+table-lspace: 0; mso-table-rspace: 0; width: initial;"><tbody><tr><td class=
+=3D"Uber18_text_p1" align=3D"left" style=3D"color: rgb(0, 0, 0); font-famil=
+y: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font=
+-size: 16px; line-height: 28px; padding-bottom: 2px; padding-top: 2px; dire=
+ction: ltr; text-align: left;"><span class=3D"Uber18_text_p3 textcta" lang=
+=3D"x-textcta" style=3D"color: #000000; font-family: UberMoveText, 'Open Sa=
+ns', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; line-height:=
+ 28px; text-transform: uppercase;"><a href=3D"https://email.uber.com/wf/cli=
+ck?upn=3DITf-2BUi9bO5sUhPgUfzyAxiAlszZJrA2yIT7-2FMFM5bgsbN8U-2FhX3QvurlDc-2=
+BhZ8CKBLruCMKTq7WJBn82Ool-2B7dauShI-2BG7ZVVpKW7eci3eA-3D_dpmKUKbZpRBSNIOjJL=
+4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5fmM=
+37thnF4xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BGsC=
+-2BpQ6uYtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYjiG=
+czZcrwiZ4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6YdfxOmY72qyERRkuDIV020yutnO0O=
+JMNf3-2Bp3obg1aIZsKxNQSoyfXhTim-2FNXqPnisDRbd0qSILDZQkuMtSatlNeYZeRvxN3nNEL=
+gVfuFuxRz0TUaxUmI3pRjWhQa8EbwOUC2vFiZE2aFOQpsyaC74-3D" style=3D"text-decora=
+tion: none; text-transform: none; color:#276EF1;">Switch</a></span></td></t=
+r></tbody></table></td></tr></tbody></table><!-- close content --></td><td =
+class=3D"Uber18_text_p3" valign=3D"top" align=3D"right" style=3D"color: rgb=
+(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvet=
+ica, sans-serif; font-size: 16px; line-height: 28px; padding-bottom: 10px; =
+padding-top: 10px; text-align: right; direction: ltr;"> =E2=82=B90 </td></t=
+r></table><!-- close Amount charged item --></td></tr></table><!-- End Fare=
+ Breakdown Card section --><!-- Fare Breakdown Auth Message section --><tab=
+le width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspa=
+ce: 0; mso-table-rspace: 0; width: 100%;"><tr><td align=3D"left" style=3D"p=
+adding-left: 12px; padding-right: 12px;"></td></tr></table><!-- End Fare Br=
+eakdown Auth Message section --><!-- Fare Breakdown compliance section --><=
+table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-table-l=
+space: 0; mso-table-rspace: 0; width: 100%;"><tr><td align=3D"left" style=
+=3D"padding-left: 12px; padding-right: 12px;"><!-- Note item --><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border=
+: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; =
+mso-table-rspace: 0; width: 100%;"><tbody><tr><td class=3D"Uber18_text_p1" =
+valign=3D"top" align=3D"left" style=3D"color: rgb(0, 0, 0); font-family: Ub=
+erMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size=
+: 12px; line-height: 20px; padding-bottom: 10px; padding-right: 0px; paddin=
+g-top: 10px; direction: ltr; text-align: left;"><a href=3D"https://email.ub=
+er.com/wf/click?upn=3DE5Fht-2Bzc2SrMWnjw-2Brx3-2BCge-2BTDCYy8uto5SQzU7fOeHo=
+pfz5oOb-2FcebnMR1-2FqgdzIJ1XUH-2FfmK3-2FiSG9Xtsq9OFWP0l5pQk-2FxllI7oKYjw-3D=
+_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci4=
+54DtJAbn3s39KwM5fmM37thnF4xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3=
+cuGQ2Q5fquLiV-2BGsC-2BpQ6uYtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs=
+7o7FEr-2FZSVALsYjiGczZcrwiZ4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6Xz8E-2BobI=
+-2BfVKysdh8Col3LiHtlogcdZApbNe4y6Hl5WMMvg2QboCuSmEtTkITnTlMnTyx3EhV3CcfuqRv=
+A0K9H3ukKpBt9v5VEHG95QU8bedXroJUpL0Rv-2BY82BU7SwJlgxULrRZRO3BFaKYTqTry4-3D"=
+>Visit the trip page</a> for more information, including invoices (where av=
+ailable) </td></tr></tbody></table><!-- close Note item --></td></tr></tabl=
+e><!-- End Fare Breakdown compliance section --><!-- Fare Breakdown Trip Re=
+ference section --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" class style=3D"border-spacing: 0; border-collapse: collapse;=
+ mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbo=
+dy><tr><td class=3D"tripReference" style=3D"line-height: 1px; font-size: 1p=
+x; color: #FFFFFF;"> xid7d9999da-7d88-4d9b-80fd-56f8be201bcf </td></tr><tr>=
+<td class=3D"zdReceiptIdentifier" style=3D"line-height: 1px; font-size: 1px=
+; color: #FFFFFF;"> pGvlI2ANUbXFfyEOgxta1RMV082993 </td></tr></tbody></tabl=
+e><!-- End Fare Breakdown Trip Reference section --><!-- Web Eats divider -=
+-><!-- section --><!-- padding 30px --><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"border: none; border-collapse: collapse; borde=
+r-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" width=
+=3D"100%" class><tr><td class=3D"60px lhreset" style=3D"font-size: 1px; lin=
+e-height: 1px; padding-bottom: 40px;">&nbsp;</td></tr></table><!-- close pa=
+dding 30px --></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                                  </td>
+                                </tr>
+                              </table>
+                              <![endif]--><!-- close main content wrapper--=
+></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+            </table>
+            <![endif]--></td></tr></table></td></tr></table><!-- close Fare=
+ breakdown --><!-- close Fare breakdown --><!-- Driver --><!-- close Driver=
+ --><!-- Map --><!-- Map Cancellation --><table width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse=
+: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; wi=
+dth: 100%;"><tbody><tr><td class=3D"outsidegutter" align=3D"left" style=3D"=
+background-color: #f8f8fa; padding: 0 14px 0 14px; padding-bottom: 20px; pa=
+dding-top: 50px;" direction: ltr; text-align: left;&quot;><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collap=
+se: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; =
+width: 100%;" class><tbody><tr><td align=3D"center"><!--[if (gte mso 9)|(IE=
+)]>
+                            <table width=3D"56" align=3D"left" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                    <td>
+                                        <![endif]--><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" class=3D"t1of12 layout" align=3D"left" sty=
+le=3D"border: none; border-collapse: collapse; border-spacing: 0; max-width=
+: 56px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr>=
+<td style=3D"font-size: 1px; height: 1px; line-height: 1px; padding-left: 0=
+px !important; padding-right: 0px !important; direction: ltr; text-align: l=
+eft;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" align=3D"left" style=3D"border: none; border-collapse: collapse; border-s=
+pacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; w=
+idth: 100%;"><tbody><tr><td style=3D"font-size: 1px; line-height: 1px; heig=
+ht: 1px; min-height: 1px; direction: ltr; text-align: left;">&nbsp;</td></t=
+r></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                </tr>
+                            </table>
+                            <![endif]--><!--[if mso]></td>
+                        <td valign=3D"top">
+                            <![endif]--><!--[if (gte mso 9)|(IE)]>
+                            <table width=3D"616" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0">
+                                <tr>
+                                    <td>
+                                        <![endif]--><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" class=3D"t11of12" style=3D"border: none; b=
+order-collapse: collapse; border-spacing: 0; max-width: 616px; mso-table-ls=
+pace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td style=3D"padding=
+-left: 0px; padding-right: 0px; direction: ltr; text-align: left;"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"lef=
+t" style=3D"border: none; border-collapse: collapse; border-spacing: 0; mso=
+-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><=
+tbody><tr><td align=3D"left" style=3D"direction: ltr; text-align: left;"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"initial" sty=
+le=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-table=
+-lspace: 0; mso-table-rspace: 0; table-layout: auto; width: initial;"><tbod=
+y><tr><td style=3D"padding-left: 12px; padding-right: 17px; padding-top: 1p=
+x; direction: ltr; text-align: left;" align=3D"left" valign=3D"middle"><!--=
+[if (gte mso 9)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr><td style=3D"font-size: 1px; line-height: 1px; padding-top=
+: 10px;">&nbsp;</td></tr></table><![endif]--><div class=3D"Uber18_text_p1 w=
+hite" style=3D"background-color: #000000; border-radius: 20px; color: #ffff=
+ff; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sa=
+ns-serif; font-size: 12px; line-height: 12px; padding: 5px 12px;"><!--[if (=
+gte mso 9)]>&nbsp;<![endif]--> UberGo <!--[if (gte mso 9)]>&nbsp;<![endif]-=
+-></div></td><td class=3D"Uber18_text_p1" valign=3D"middle" align=3D"left" =
+style=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helv=
+etica Neue', Helvetica, sans-serif; font-size: 16px; line-height: 28px; whi=
+te-space: nowrap; direction: ltr; text-align: left;"> Ride cancelled </td><=
+/tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                                                    <table =
+width=3D"280" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0">
+                                                                        <tr>
+                                                                           =
+ <td>
+                                                                           =
+     <![endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"t5of12" align=3D"left" style=3D"border: none; border-collapse: colla=
+pse; border-spacing: 0; direction: ltr; max-width: 280px; mso-table-lspace:=
+ 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td style=3D"padding: 20p=
+x 12px 20px 12px; direction: ltr; text-align: left;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"bo=
+rder: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace:=
+ 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td =
+align=3D"left" style=3D"direction: ltr; text-align: left;"><!-- Begining pi=
+npoint --><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+initial" style=3D"border: none; border-collapse: collapse; border-spacing: =
+0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: auto; width: 100=
+%;"><tbody><tr><td width=3D"4" style=3D"width: 4px; font-size: 1px; line-he=
+ight: 1px; direction: ltr; text-align: left;" valign=3D"top"><img src=3D"ht=
+tps://s3.amazonaws.com/uber-static/emails/2017/01/receipt/receipt_18_square=
+_top_fill_left.png" width=3D"4" height=3D"17" border=3D"0" style=3D"-ms-int=
+erpolation-mode: bicubic; clear: both; display: block; height: 17px; max-wi=
+dth: 100%; outline: none; text-decoration: none; width: 4px;"></td><td styl=
+e=3D"font-size: 1px; line-height: 1px; width: 1px; background-color: rgb(0,=
+ 0, 0); direction: ltr; text-align: left;" valign=3D"top"><img src=3D"https=
+://s3.amazonaws.com/uber-static/emails/2017/01/receipt/receipt_18_square_to=
+p_fill_middle.png" width=3D"1" height=3D"17" border=3D"0" style=3D"-ms-inte=
+rpolation-mode: bicubic; clear: both; display: block; height: 17px; max-wid=
+th: 100%; outline: none; text-decoration: none; width: 1px;"></td><td width=
+=3D"3" style=3D"width: 3px; font-size: 1px; line-height: 1px; direction: lt=
+r; text-align: left;" valign=3D"top"><img src=3D"https://s3.amazonaws.com/u=
+ber-static/emails/2017/01/receipt/receipt_18_square_top_fill_right.png" wid=
+th=3D"3" height=3D"17" border=3D"0" style=3D"-ms-interpolation-mode: bicubi=
+c; clear: both; display: block; height: 17px; max-width: 100%; outline: non=
+e; text-decoration: none; width: 3px;"></td><td class=3D"Uber18_text_p2 bla=
+ck" valign=3D"top" style=3D"color: rgb(0, 0, 0); font-family: UberMoveText,=
+ 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; lin=
+e-height: 28px; padding-bottom: 28px; padding-left: 34px; direction: ltr; t=
+ext-align: left;"><!-- content --><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" align=3D"left" style=3D"border: none; border-=
+collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspac=
+e: 0; width: 100%;"><tbody><tr><td class=3D"Uber18_text_p2 black" valign=3D=
+"top" align=3D"left" style=3D"color: rgb(0, 0, 0); font-family: UberMoveTex=
+t, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; l=
+ine-height: 28px; direction: ltr; text-align: left;"> 10:58am </td></tr><tr=
+><td class=3D"Uber18_text_p1" align=3D"left" style=3D"color: rgb(0, 0, 0); =
+font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-s=
+erif; font-size: 16px; line-height: 28px; direction: ltr; text-align: left;=
+"> Request accepted </td></tr></tbody></table><!-- content --></td></tr></t=
+body></table><!-- Begining pinpoint --><!-- End Destination --><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"initial" style=3D"bord=
+er: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0=
+; mso-table-rspace: 0; table-layout: auto; width: 100%;"><tbody><tr><td wid=
+th=3D"4" style=3D"width: 4px; font-size: 1px; line-height: 1px; direction: =
+ltr; text-align: left;" valign=3D"top"><img src=3D"https://s3.amazonaws.com=
+/uber-static/emails/2017/01/receipt/receipt_18_square_top_fill_left.png" wi=
+dth=3D"4" height=3D"17" border=3D"0" style=3D"-ms-interpolation-mode: bicub=
+ic; clear: both; display: block; height: 17px; max-width: 100%; outline: no=
+ne; text-decoration: none; width: 4px;"></td><td style=3D"font-size: 1px; l=
+ine-height: 1px; width: 1px; background-color: rgb(255, 255, 255); directio=
+n: ltr; text-align: left;" valign=3D"top"><img src=3D"https://s3.amazonaws.=
+com/uber-static/emails/2017/01/receipt_18_square_btm_fill_middle.png" width=
+=3D"1" height=3D"20" border=3D"0" style=3D"-ms-interpolation-mode: bicubic;=
+ clear: both; display: block; height: 20px; max-width: 100%; outline: none;=
+ text-decoration: none; width: 1px;"></td><td width=3D"3" style=3D"width: 3=
+px; font-size: 1px; line-height: 1px; direction: ltr; text-align: left;" va=
+lign=3D"top"><img src=3D"https://s3.amazonaws.com/uber-static/emails/2017/0=
+1/receipt/receipt_18_square_top_fill_right.png" width=3D"3" height=3D"17" b=
+order=3D"0" style=3D"-ms-interpolation-mode: bicubic; clear: both; display:=
+ block; height: 17px; max-width: 100%; outline: none; text-decoration: none=
+; width: 3px;"></td><td class=3D"Uber18_text_p2 black" valign=3D"top" style=
+=3D"color: rgb(0, 0, 0); font-family: UberMoveText, 'Open Sans', 'Helvetica=
+ Neue', Helvetica, sans-serif; font-size: 16px; line-height: 16px; padding-=
+left: 34px; direction: ltr; text-align: left;"><!-- content --><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" s=
+tyle=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-tab=
+le-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td class=3D"Ub=
+er18_text_p2 black" valign=3D"top" style=3D"color: rgb(0, 0, 0); font-famil=
+y: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font=
+-size: 16px; line-height: 28px; direction: ltr; text-align: left;"> 11:05am=
+ </td></tr><tr><td class=3D"Uber18_text_p1" style=3D"color: rgb(0, 0, 0); f=
+ont-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-se=
+rif; font-size: 16px; line-height: 28px; direction: ltr; text-align: left;"=
+> Request canceled </td></tr></tbody></table><!-- content --></td></tr></tb=
+ody></table><!-- End Destination --></td></tr></tbody></table></td></tr></t=
+body></table><!--[if (gte mso 9)|(IE)]>
+                                                                           =
+ </td>
+                                                                        </t=
+r>
+                                                                    </table>
+                                                                    <![endi=
+f]--><!--[if mso]></td>
+                                                                <td valign=
+=3D"top">
+                                                                    <![endi=
+f]--><!--[if (gte mso 9)|(IE)]>
+                                                                    <table =
+width=3D"336" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0">
+                                                                        <tr>
+                                                                           =
+ <td>
+                                                                           =
+     <![endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"t6of12" align=3D"left" style=3D"border: none; border-collapse: colla=
+pse; border-spacing: 0; max-width: 336px; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%;"><tbody><tr><td class=3D"desktopMap" style=3D"padding=
+: 20px 12px 30px 12px; direction: ltr; text-align: left;"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=
+=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-table-l=
+space: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><t=
+r><td style=3D"direction: ltr; text-align: left;"><!-- mobile map image bel=
+ow --><div class=3D"desktopMap"><img id=3D"map_7d9999da-7d88-4d9b-80fd-56f8=
+be201bcf" src=3D"cid:map_7d9999da-7d88-4d9b-80fd-56f8be201bcf" width=3D"312=
+" height border=3D"0" style=3D"-ms-interpolation-mode: bicubic; clear: both=
+; display: block; height: auto; max-height: 150px; max-width: 312px; outlin=
+e: none; text-decoration: none; width: 100%;"></div><!-- mobile map image b=
+elow --></td></tr></tbody></table></td></tr></tbody></table><!--[if (gte ms=
+o 9)|(IE)]>
+                                                                           =
+ </td>
+                                                                        </t=
+r>
+                                                                    </table>
+                                                                    <![endi=
+f]--></td></tr></tbody></table></td></tr></tbody></table><!--[if (gte mso 9=
+)|(IE)]>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <![endif]--></td></tr></tbody></table></td>=
+</tr><tr><td style=3D"direction: ltr; text-align: left;"><!-- mobile map im=
+age above --><div class=3D"mobileMap" style=3D"display: none; mso-hide: all=
+; padding-bottom: 30px;"><img id=3D"map_7d9999da-7d88-4d9b-80fd-56f8be201bc=
+f_wide" src=3D"cid:map_7d9999da-7d88-4d9b-80fd-56f8be201bcf_wide" width=3D"=
+415" height=3D"auto" border=3D"0" style=3D"-ms-interpolation-mode: bicubic;=
+ clear: both; display: block; height: auto; max-width: 100%; outline: none;=
+ text-decoration: none; width: 100%;"></div><!-- mobile map image above -->=
+</td></tr></tbody></table><!-- End Map Cancellation --><!-- close Map --><!=
+-- Promo Banner --><!-- End Promo Banner --><!-- Give Get Banner --><table =
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bo=
+rder: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace:=
+ 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td align=3D"center" styl=
+e=3D"padding-left: 26px; padding-right: 26px;"><!--[if (gte mso 9)|(IE)]>
+         <table width=3D"648" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">
+            <tr>
+               <td>
+                  <![endif]--><table class=3D"receipt_body" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"t12of12" style=3D"border: none; =
+border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; width: 100%;"><tbody><tr><td style=3D"padding-bottom: 30px; pa=
+dding-left: 0px; padding-right: 0px; direction: ltr; text-align: left;"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=
+=3D"left" style=3D"border: none; border-collapse: collapse; border-spacing:=
+ 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 1=
+00%;"><tbody><tr><td class=3D"Uber18_text_p1" style=3D"background-color: #F=
+1F1F1; color: #000000; font-family: UberMoveText, 'Open Sans', 'Helvetica N=
+eue', Helvetica, sans-serif; font-size: 16px; line-height: 28px;" align=3D"=
+center"><!--[if (gte mso 9)|(IE)]>
+                                    <table width=3D"584" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">
+                                       <tr>
+                                          <td>
+                                             <![endif]--><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"t10of12" style=3D"border: no=
+ne; border-collapse: collapse; border-spacing: 0; max-width: 584px; mso-tab=
+le-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td class=3D"ou=
+tsidegutter" style=3D"padding: 25px 12px 25px 12px; direction: ltr; text-al=
+ign: left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" align=3D"left" style=3D"border: none; border-collapse: collapse; =
+border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: =
+auto; width: 100%;"><tbody><tr><td style=3D"direction: ltr; text-align: lef=
+t;"><!--[if (gte mso 9)|(IE)]>
+                                                               <table width=
+=3D"115" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:=
+ inline-block; vertical-align: middle;">
+                                                                  <tr>
+                                                                     <td>
+                                                                        <![=
+endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t=
+3of12" style=3D"border: none; border-collapse: collapse; border-spacing: 0;=
+ display: inline-block; max-width: 115px; mso-table-lspace: 0; mso-table-rs=
+pace: 0; vertical-align: middle; width: 100%;"><tbody><tr><td style=3D"padd=
+ing: 15px 12px 15px 12px; direction: ltr; text-align: left;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" st=
+yle=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-tabl=
+e-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody=
+><tr><td style=3D"direction: ltr; text-align: left;"><img src=3D"https://s3=
+.amazonaws.com/uber-static/emails/2017/01/GxGy-Icon_176x176.png" width=3D"8=
+8" height border=3D"0" style=3D"-ms-interpolation-mode: bicubic; clear: bot=
+h; display: block; height: auto; max-height: 88px; max-width: 88px; outline=
+: none; text-decoration: none; width: 100%;"></td></tr></tbody></table></td=
+></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                                                     </td>
+                                                                  </tr>
+                                                               </table>
+                                                               <![endif]-->=
+<!--[if (gte mso 9)|(IE)]></td>
+                                                            <td valign=3D"m=
+iddle">
+                                                               <![endif]-->=
+<!--[if (gte mso 9)|(IE)]>
+                                                               <table width=
+=3D"392" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"display:=
+ inline-block; vertical-align: middle;">
+                                                                  <tr>
+                                                                     <td>
+                                                                        <![=
+endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t=
+7of12" style=3D"border: none; border-collapse: collapse; border-spacing: 0;=
+ display: inline-block; max-width: 392px; mso-table-lspace: 0; mso-table-rs=
+pace: 0; vertical-align: middle; width: 100%;"><tbody><tr><td style=3D"padd=
+ing: 15px 12px 15px 12px; direction: ltr; text-align: left;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" st=
+yle=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-tabl=
+e-lspace: 0; mso-table-rspace: 0; table-layout: auto; width: 100%;"><tbody>=
+<tr><td class=3D"Uber18_text_p1" align=3D"left" style=3D"color: rgb(0, 0, 0=
+); font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, san=
+s-serif; font-size: 18px; line-height: 28px; padding-bottom: 6px; direction=
+: ltr; text-align: left;"> Invite your friends and family. </td></tr><tr><t=
+d class=3D"Uber18_text_p1" align=3D"left" style=3D"color: rgb(0, 0, 0); fon=
+t-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-seri=
+f; font-size: 16px; line-height: 28px; direction: ltr; text-align: left;"> =
+Get a free ride worth up to Tk=C2=A050 when you refer a friend to try Uber.=
+&nbsp;<span class=3D"Uber18_text_p1" style=3D"color: #000000; font-family: =
+UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-si=
+ze: 16px; line-height: 28px;">Share code: shaafis12ue</span></td></tr></tbo=
+dy></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                                                                     </td>
+                                                                  </tr>
+                                                               </table>
+                                                               <![endif]-->=
+</td></tr></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE=
+)]>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                    <![endif]--></td></tr></tbody></table><=
+/td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+               </td>
+            </tr>
+         </table>
+         <![endif]--></td></tr></tbody></table><!-- End Give Get Banner -->=
+<!-- Banners --><!-- close Banners --><!-- Footer Links --><!-- Footer link=
+s --><!-- Footer links - Riders --><table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: coll=
+apse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 1=
+00%;"><tbody><tr><td align=3D"left" style=3D"background-color: rgb(39, 110,=
+ 241); padding-top: 15px; padding-bottom: 15px; direction: ltr; text-align:=
+ left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bo=
+rder: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace:=
+ 0; mso-table-rspace: 0; width: 100%;" class><tbody><tr><td style=3D"direct=
+ion: ltr; text-align: left;"><!--[if (gte mso 9)|(IE)]>
+            <table width=3D"234" align=3D"left" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+              <tr>
+                <td>
+                  <![endif]--><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"t4of12" align=3D"left" style=3D"border: none; border-co=
+llapse: collapse; border-spacing: 0; max-width: 234px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%;"><tbody><tr><td class style=3D"padding: =
+10px 0px 10px 0px; direction: ltr; text-align: left;"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"b=
+order: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace=
+: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td=
+ style=3D"padding-left: 26px; padding-right: 12px; direction: ltr; text-ali=
+gn: left;"><a class=3D"Uber18_text_p2" href=3D"https://email.uber.com/wf/cl=
+ick?upn=3DITf-2BUi9bO5sUhPgUfzyAxge7rrmc1TB7MBPB0UVnv5WCgF8LXIrzArIFbD9VI0o=
+CzeEZ-2BotxfMsld31I7yAsyBw6-2FN-2F5-2F0mi2b7tjaXiF-2FQ-3D_dpmKUKbZpRBSNIOjJ=
+L4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5fm=
+M37thnF4xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BGs=
+C-2BpQ6uYtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYji=
+GczZcrwiZ4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6WuSym99wo8JsaY1HKIkEDuTokRwL=
+pcIjvY-2FtlkL-2Ft3jxE-2FoonSwbhcLKbyx-2FvHuBpIZIQ9yIp4d0f9dX7ml-2FIiTxxnd84=
+ax6cjLKfuTRK5GmoCl1-2BrPa1Our2AvbT8QhDTTpX4xT57uPkkoYMgA-2F5s-3D" style=3D"=
+color: #ffffff; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', H=
+elvetica, sans-serif; font-size: 14px; line-height: 16px; padding: 2px 0px =
+2px 0px; text-decoration: none; text-transform: uppercase;">Report lost ite=
+m <span style=3D"padding-left:10px;" class=3D"arrow">&#x276f;</span></a></t=
+d><td class width=3D"1" valign=3D"top" style=3D"direction: ltr; text-align:=
+ left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" style=3D"border: none; border-collapse: collapse; border-spacing: 0; ms=
+o-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;">=
+<tbody><tr><td class=3D"bannerDivider" height=3D"20" width=3D"1" style=3D"d=
+irection: ltr; text-align: left;">&nbsp;</td></tr></tbody></table></td></tr=
+></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+            </table>
+            <![endif]--><!--[if mso]></td>
+          <td valign=3D"top">
+            <![endif]--><!--[if (gte mso 9)|(IE)]>
+            <table width=3D"234" align=3D"left" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+              <tr>
+                <td>
+                  <![endif]--><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"t4of12" align=3D"left" style=3D"border: none; border-co=
+llapse: collapse; border-spacing: 0; max-width: 234px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%;"><tbody><tr><td class style=3D"padding: =
+10px 0px 10px 0px; direction: ltr; text-align: left;"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"b=
+order: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace=
+: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td=
+ style=3D"padding-left: 26px; padding-right: 12px; direction: ltr; text-ali=
+gn: left;"><div class=3D"desktopContent"><a class=3D"Uber18_text_p2" href=
+=3D"help.uber.com/riders" style=3D"color: #ffffff; font-family: UberMoveTex=
+t, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 14px; l=
+ine-height: 16px; padding: 2px 0px 2px 0px; text-decoration: none; text-tra=
+nsform: uppercase;">contact support <span style=3D"padding-left:10px;" clas=
+s=3D"arrow">&#x276f;</span></a></div><!--[if !mso]><!-- --><div class=3D"mo=
+bileContent" style=3D"display: none; mso-hide: all;"><a class=3D"Uber18_tex=
+t_p2" href=3D"https://email.uber.com/wf/click?upn=3DivypI-2BHDlrQ9K35dDx4zB=
+8KS6X-2F0d-2FtVObre3fnwNqlHonaXHMIn3l-2B8Qfkdx2Ca_dpmKUKbZpRBSNIOjJL4QPNOBx=
+789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5fmM37thnF4=
+xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BGsC-2BpQ6u=
+YtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYjiGczZcrwi=
+Z4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6Xx-2BeMypSJa1SgXnd9B53WEGHUoO9DqFe8h=
+GnvFxgc0XXRdYR3NS4Hg7Pi9A-2FTdBnQeKYhpxBPOr1sDepnd7dMc7YHQKJA2r73mTdzjqkd8e=
+NjSiYoCbJyu-2F1Iszydh9oH2q3DcxDu6DyFeMcrZ-2F46k-3D" style=3D"color: #ffffff=
+; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans=
+-serif; font-size: 14px; line-height: 16px; padding: 2px 0px 2px 0px; text-=
+decoration: none; text-transform: uppercase;">contact support <span style=
+=3D"padding-left:10px;" class=3D"arrow">&#x276f;</span></a></div><!--<![end=
+if]--></td><td class width=3D"1" valign=3D"top" style=3D"direction: ltr; te=
+xt-align: left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"border: none; border-collapse: collapse; border-spaci=
+ng: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width=
+: 100%;"><tbody><tr><td class=3D"bannerDivider" height=3D"20" width=3D"1" s=
+tyle=3D"direction: ltr; text-align: left;">&nbsp;</td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE=
+)]>
+                </td>
+              </tr>
+            </table>
+            <![endif]--><!--[if mso]></td>
+          <td valign=3D"top">
+            <![endif]--><!--[if (gte mso 9)|(IE)]>
+            <table width=3D"232" align=3D"left" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+              <tr>
+                <td>
+                  <![endif]--><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"t4of12" align=3D"left" style=3D"border: none; border-co=
+llapse: collapse; border-spacing: 0; max-width: 232px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%;"><tbody><tr><td class style=3D"padding: =
+10px 0px 10px 0px; direction: ltr; text-align: left;"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"b=
+order: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace=
+: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td=
+ style=3D"padding-left: 26px; padding-right: 12px; direction: ltr; text-ali=
+gn: left;"><a class=3D"Uber18_text_p2" href=3D"https://email.uber.com/wf/cl=
+ick?upn=3DE5Fht-2Bzc2SrMWnjw-2Brx3-2BCge-2BTDCYy8uto5SQzU7fOeY8Whb9IQreODC4=
+SHBE5F-2F_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoE=
+MsDsxeci454DtJAbn3s39KwM5fmM37thnF4xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo=
+2c5l4zeN3cuGQ2Q5fquLiV-2BGsC-2BpQ6uYtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2=
+JMa4KWvjs7o7FEr-2FZSVALsYjiGczZcrwiZ4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6c=
+e7SsB0QZeCTOGIIhucacoJirS5YDxUjCEAzJijKfllQtWQ7-2BWWy7r6s6FyzvF7EJ5sNdPANcp=
+-2BuSjDBXCAoUeKA7G1oUtR8g6xF6RO-2Bt2XYQ0hfgXDw-2FX6u4wzL8FRvmR4CbKoCPTG0LDr=
+YBsAGCY-3D" style=3D"color: #ffffff; font-family: UberMoveText, 'Open Sans'=
+, 'Helvetica Neue', Helvetica, sans-serif; font-size: 14px; line-height: 16=
+px; padding: 2px 0px 2px 0px; text-decoration: none; text-transform: upperc=
+ase;">My Trips <span style=3D"padding-left:10px;" class=3D"arrow">&#x276f;<=
+/span></a></td><td class width=3D"1" valign=3D"top" style=3D"direction: ltr=
+; text-align: left;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" style=3D"border: none; border-collapse: collapse; border-s=
+pacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; w=
+idth: 100%;"><tbody><tr><td class height=3D"20" width=3D"1" style=3D"direct=
+ion: ltr; text-align: left;">&nbsp;</td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+            </table>
+            <![endif]--></td></tr></tbody></table></td></tr><!-- Footer lin=
+ks - Riders --><!-- Footer links --><!-- close Footer --><!-- Footer --><!-=
+- Footer Flat --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"border: none; border-collapse: collapse; border-spaci=
+ng: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" class><tr><t=
+d align=3D"left" style=3D"background-color:#000000;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: c=
+ollapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width=
+: 100%;" class><tr><td align=3D"center"><table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse:=
+ collapse; border-spacing: 0; max-width: 700px; mso-table-lspace: 0; mso-ta=
+ble-rspace: 0; width: 100%;" class><tr><td style=3D"padding:0 26px;"><!--[i=
+f (gte mso 9)|(IE)]>
+                  <table width=3D"648" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td>
+                        <![endif]--><table class=3D"receipt_body" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: non=
+e; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-t=
+able-rspace: 0; table-layout: fixed; width: 100%;" class><tr><td style=3D"f=
+ont-size:0px; line-height:0px; padding-top:20px;">&nbsp;</td></tr><tr><td><=
+table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-table-l=
+space: 0; mso-table-rspace: 0; width: 100%;" class><tr><td align=3D"left"><=
+!--[if (gte mso 9)|(IE)]>
+                                    <table width=3D"585" align=3D"left" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                      <tr>
+                                        <td width=3D"335">
+                                          <![endif]--><!-- uber logo --><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"basetable" al=
+ign=3D"left" style=3D"border: none; border-collapse: collapse; border-spaci=
+ng: 0; max-width: 335px; mso-table-lspace: 0; mso-table-rspace: 0; table-la=
+yout: fixed; width: 100%;"><tr><td style=3D"padding-top:40px;"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"basetable" width=3D"10=
+0%" align=3D"left" style=3D"border: none; border-collapse: collapse; border=
+-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed;=
+ width: 100%;"><tr><td align=3D"left"><img src=3D"https://d1a3f4spazzrp4.cl=
+oudfront.net/receipt_v3/Uber_Logo_White_RGB_138x48.png" width=3D"69" height=
+=3D"24" style=3D"-ms-interpolation-mode: bicubic; border: none; clear: both=
+; display: block; max-width: 100%; outline: none; text-decoration: none; wi=
+dth: auto;" alt class></td></tr></table></td></tr></table><!-- end uber log=
+o --><!--[if (gte mso 9)|(IE)]>
+                                        </td>
+                                        <td width=3D"250">
+                                          <![endif]--><!--[if (gte mso 9)|(=
+IE)]>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <![endif]--></td></tr></table></td></tr=
+><tr><td style=3D"padding:40px 0 0 0;"><table width=3D"100%" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: =
+collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; widt=
+h: 100%;" class><!-- full break start--><tr><td height=3D"1" style=3D"font-=
+size:0px;line-height:0px;background:#333333;">&nbsp;</td></tr><!-- full bre=
+ak end --></table></td></tr><tr><td><table width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: col=
+lapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: =
+100%;" class><tr><td style=3D"vertical-align:top;" valign=3D"top"><!--[if (=
+gte mso 9)|(IE)]>
+                                    <table width=3D"648" align=3D"left" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                      <tr>
+                                        <td width=3D"335" style=3D"vertical=
+-align:top;" valign=3D"top">
+                                          <![endif]--><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" class=3D"basetable" align=3D"left" style=
+=3D"border: none; border-collapse: collapse; border-spacing: 0; max-width: =
+335px; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width=
+: 100%;"><tr><td style=3D"padding-top:30px;vertical-align:top;" valign=3D"t=
+op" align=3D"left"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"basetable" width=3D"100%" align=3D"left" style=3D"border: none; bo=
+rder-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-=
+rspace: 0; table-layout: fixed; width: 100%;"><tr><td class=3D"p2" style=3D=
+"color: #ffffff; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', =
+Helvetica, sans-serif; font-size: 14px; line-height: 28px;" align=3D"left">=
+<a href=3D"https://email.uber.com/wf/click?upn=3DITf-2BUi9bO5sUhPgUfzyAxj5i=
+Fqf-2FESRS16p6bw9B-2BMWQqZiB-2BxjwRgeYbkjgMWvF_dpmKUKbZpRBSNIOjJL4QPNOBx789=
+MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5fmM37thnF4xNb=
+VX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BGsC-2BpQ6uYtQ=
+gqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYjiGczZcrwiZ4D=
+22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6cDKYUX-2BLqBksL-2BXpruWCj7MFnRXQFrq-2FS=
+G970fnS8o4lyZsYxuAlXLusjPmUecSWRHqFd-2FwbkCgIkF6fPj7xA60IA66we5pDberE-2B0-2=
+FKbhjWoLSH0qU9zf5RSF4O26GfOEbMSCyov3cYBKxwpmwJXk-3D" style=3D"color:#ffffff=
+; text-decoration:none;">FAQ</a></td></tr><tr><td class=3D"p2" style=3D"col=
+or: #ffffff; font-family: UberMoveText, 'Open Sans', 'Helvetica Neue', Helv=
+etica, sans-serif; font-size: 14px; line-height: 28px;" align=3D"left"><a h=
+ref=3D"https://email.uber.com/wf/click?upn=3DITf-2BUi9bO5sUhPgUfzyAxlPMkOdj=
+jGMakTnjAIL7ePbKucTAwAxSOg7sPFFwzO5-2B-2BglOH2JuMg5JUK-2FYad4pICydKL0iBSnjT=
+pe51IrGTwRLEmCubJfdjPReIlrwPUAbm-2BRa8IlcPD1k4P-2FiqEPsnM-2BEfr2iw7XxRtBPoj=
+NVhf25iKPLWtcMAKB4WYVSs4LF43eBnL-2BnKCTd1iwRDwZ-2FHg-3D-3D_dpmKUKbZpRBSNIOj=
+JL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5f=
+mM37thnF4xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BG=
+sC-2BpQ6uYtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYj=
+iGczZcrwiZ4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6QdpE3gCsw8erVgms94GNyUpzD9q=
+ReOemABDIHZeunUXnwZkXj1WZdCoVNzC4zM8NhRnSDMkCmbkp-2Be55rm2gWyNdlEjz1UQfnIzo=
+stjvXB-2BvGg0XnwP3kKc-2FHuUHPHBt1mJxgJLxBOK8-2B5s3h54H6Q-3D" style=3D"color=
+:#ffffff; text-decoration:none;">Forgot password</a></td></tr></table></td>=
+</tr></table><!--[if (gte mso 9)|(IE)]>
+                                        </td>
+                                        <td width=3D"313">
+                                          <![endif]--><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" class=3D"basetable" align=3D"left" style=
+=3D"border: none; border-collapse: collapse; border-spacing: 0; max-width: =
+313px; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width=
+: 100%;"><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"basetable" width=3D"100%" align=3D"left" style=3D"border: none; bord=
+er-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%;"><tr><td align=3D"left"><!--[if (gte mso 9)|(IE)]>
+                                                      <table width=3D"195" =
+align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                        <tr>
+                                                          <td>
+                                                            <![endif]--><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"basetable" al=
+ign=3D"left" style=3D"border: none; border-collapse: collapse; border-spaci=
+ng: 0; max-width: 195px; mso-table-lspace: 0; mso-table-rspace: 0; table-la=
+yout: fixed; width: 100%;"><tr><td style=3D"color: #9d9da3; font-family: Ub=
+erMoveText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size=
+: 12px; line-height: 18px; padding-right: 10px; padding-top: 30px;" class=
+=3D"p3" align=3D"left"> Uber B.V.<br> Mr. Treublaan 7<br>1097 DP Amsterdam<=
+br></td></tr><tr><td style=3D"color: #9d9da3; font-family: UberMoveText, 'O=
+pen Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; line-h=
+eight: 26px; padding-top: 6px;" class=3D"p3" align=3D"left"><a href=3D"http=
+s://email.uber.com/wf/click?upn=3DAc78kxLEU5x8sS8qIl5fKYosFxWyY-2FjhtDBZJR9=
+cgRMpTXhOJzfGu1oYSzU-2FgYli_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbt=
+mvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5fmM37thnF4xNbVX-2B90Xx4V69EWyE-2=
+BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BGsC-2BpQ6uYtQgqzdkYq3Jny7b1a8nZW=
+X3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYjiGczZcrwiZ4D22UR1hqPWLiXPX4UnoQ=
+WqK20n8BQmvtWEiE6bHpqfzNpmEXql05kTTtmwbwg-2BTeHM0jrJZmTlPGsQsZLxPxJwpj6Bzis=
+rJi-2BYA06PADQ6apMkFRcJXiCWhlkWN0h2ONniI1SdIpnck0vmX2wrmKYKKDMefBgh-2B7ezAU=
+XeaQnm40GYn4nSqtdtuXKSY-3D" style=3D"color:#ffffff; text-decoration:none;">=
+Privacy</a><br><a href=3D"https://email.uber.com/wf/click?upn=3DAc78kxLEU5x=
+8sS8qIl5fKYosFxWyY-2FjhtDBZJR9cgRO3B5BmldvuwJiY27V6X-2BB-2B_dpmKUKbZpRBSNIO=
+jJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5=
+fmM37thnF4xNbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2B=
+GsC-2BpQ6uYtQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsY=
+jiGczZcrwiZ4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6SALLmxhwrV8pmD7AcYsVA1I6MG=
+ghtOKupYg0-2B4WhI6SSK7kWnLhZaOUDJJvzcfCrmkJBgEeoJF-2BwZry12PLVGQI0IJExgC-2F=
+O60mqiOGa-2F4uJkEo7KpdzcAToSt5CCTdNor5SUCetwExG9VtxXAS9TU-3D" style=3D"colo=
+r:#ffffff; text-decoration:none;">Terms</a></td></tr></table><!--[if (gte m=
+so 9)|(IE)]>
+                                                          </td>
+                                                        </tr>
+                                                      </table>
+                                                      <![endif]--></td></tr=
+></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <![endif]--></td></tr></table></td></tr=
+><tr><td><!-- Legal --><!-- END Legal --></td></tr><tr><td style=3D"font-si=
+ze:0px; line-height:0px; padding-top:60px;">&nbsp;</td></tr></table><!--[if=
+ (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr></table></td></tr></table></td></tr=
+></table><!-- END Footer Flat --><!-- close Footer --><!-- Legal Disclaimer=
+ --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"border: none; border-collapse: collapse; border-spacing: 0; mso-ta=
+ble-lspace: 0; mso-table-rspace: 0; width: 100%;"><tbody><tr><td class=3D"o=
+utsidegutter" align=3D"left" style=3D"background-color: #F1F1F1; padding: 0=
+px 14px 0px 14px; direction: ltr; text-align: left;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-collapse: c=
+ollapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width=
+: 100%;" class><tbody><tr><td style=3D"direction: ltr; text-align: left;"><=
+!--[if (gte mso 9)|(IE)]>
+<table width=3D"616" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+   <tr>
+      <td>
+         <![endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"t11of12" align=3D"left" style=3D"border: none; border-collapse: =
+collapse; border-spacing: 0; max-width: 616px; mso-table-lspace: 0; mso-tab=
+le-rspace: 0; width: 100%;"><tbody><tr><td style=3D"padding-left: 12px; pad=
+ding-right: 12px; direction: ltr; text-align: left;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"bo=
+rder: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace:=
+ 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"><tbody><tr><td =
+class=3D"Uber18_text_p1" style=3D"color: rgb(0, 0, 0); font-family: UberMov=
+eText, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12p=
+x; line-height: 20px; padding-bottom: 30px; padding-top: 30px; direction: l=
+tr; text-align: left;"> If you think this was a mistake, please visit help.=
+uber.com or tap HELP in the menu panel of the Uber app and we'll make it ri=
+ght. </td></tr></tbody></table></td></tr></tbody></table><!--[if (gte mso 9=
+)|(IE)]>
+      </td>
+   </tr>
+</table>
+<![endif]--></td></tr></tbody></table></td></tr></tbody></table><!-- close =
+Legal Disclaimer --><!-- end content goes here --><!--[if (gte mso 9)|(IE)]>
+                                                                  </td>
+                                                                </tr>
+                                                              </table>
+                                                              <![endif]--><=
+/td></tr></table><!--[if (gte mso 9)|(IE)]>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                  <![endif]--></td></tr></t=
+able><!-- close wrapper --></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <![endif]--></td></tr></table></td></tr></t=
+able></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                  </td>
+                </tr>
+              </table>
+              <![endif]--></td></tr></table>
+<img src=3D"https://email.uber.com/wf/open?upn=3DdpmKUKbZpRBSNIOjJL4QPNOBx7=
+89MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AoEMsDsxeci454DtJAbn3s39KwM5fmM37thnF4x=
+NbVX-2B90Xx4V69EWyE-2BwQD1krlBqYHq5tovo2c5l4zeN3cuGQ2Q5fquLiV-2BGsC-2BpQ6uY=
+tQgqzdkYq3Jny7b1a8nZWX3K8qDRxwC-2B4JMT2JMa4KWvjs7o7FEr-2FZSVALsYjiGczZcrwiZ=
+4D22UR1hqPWLiXPX4UnoQWqK20n8BQmvtWEiE6QXeSJZehLAW5dV7nLoNcfoGGCEDQcXtWFXzfb=
+NjeWYprMUy2WBkTU9R5n9zy-2BBtbuvRpLSopvC2gxZw8j6tj9vQ0wOcy53n65-2BALix6IEW8Z=
+Un723xXzeifFr0MGt4blm8AgWHxMBRiD4pK6MqxtCM-3D" alt=3D"" width=3D"1" height=
+=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;"/>
+</body></html>
+
+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

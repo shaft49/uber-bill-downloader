@@ -1,0 +1,1863 @@
+=?UTF-8?Q?Your_Tuesday_evening_trip_with_Uber?=
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml" xmlns=3D"http://www.w3.org/1999/xhtml"><!-- FILE: html_start.html.mako =
+--><!-- FILE: head.html.mako --><head><meta http-equiv=3D"Content-Type" con=
+tent=3D"text/html; charset=3Dutf-8"><meta name=3D"viewport" content=3D"widt=
+h=3Ddevice-width"><!--[if !mso]><!-- --><meta http-equiv=3D"X-UA-Compatible=
+" content=3D"IE=3Dedge"><!--<![endif]--><!-- See the README file for an exp=
+lanation of this media hack --><style type=3D"text/css">
+/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+         Custom Classes
+         =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D*/
+@media screen and (max-width:739px) {
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+.surgeTable {
+    max-width: none !important;
+}
+.fareDiv {
+    display: inline-block !important;
+    margin: 0 auto !important;
+}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 1) {
+.arrow {
+    vertical-align: 6%;
+    line-height: 20px !important;
+}
+}
+
+@media screen {
+@font-face {
+ font-family: 'ClanPro-Thin';
+ src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts/Cl=
+anProForUBER-Thin.woff') format('woff'), url('https://s3.amazonaws.com/uber=
+-static/emails/2017/global/fonts/ClanProForUBER-Thin.ttf') format('truetype=
+');
+ font-weight: normal !important;
+ font-style: normal !important;
+ mso-font-alt: 'Arial'
+}
+@font-face {
+    font-family: 'ClanPro-Book';
+    src: url('https://uber-static.s3.amazonaws.com/emails/2015/06/ClanPro-B=
+ook.woff') format('woff'), url('https://uber-static.s3.amazonaws.com/emails=
+/2015/06/ClanPro-Book.ttf') format('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial';
+}
+@font-face {
+    font-family: 'ClanPro-News';
+    src: url('https://uber-static.s3.amazonaws.com/emails/2015/06/ClanPro-N=
+ews.woff') format('woff'), url('https://uber-static.s3.amazonaws.com/emails=
+/2015/06/ClanPro-News.ttf') format('truetype');
+    font-weight: normal !important;
+    font-style: normal !important;
+    mso-font-alt: 'Arial';
+}
+@font-face {
+ font-family: 'ClanPro-Medium';
+ src: url('https://s3.amazonaws.com/uber-static/emails/2017/global/fonts/Cl=
+anProForUBER-Medium.woff') format('woff'), url('https://s3.amazonaws.com/ub=
+er-static/emails/2017/global/fonts/ClanProForUBER-Medium.ttf') format('true=
+type');
+ font-weight: normal !important;
+ font-style: normal !important;
+ mso-font-alt: 'Arial'
+}
+}
+.btn a:hover, * [lang=3Dx-btn] a:hover {
+    background-color: #368C36 !important;
+    border-color: #368C36 !important;
+}
+.textcta a:hover, * [lang=3Dx-textcta] a:hover {
+    color: #368C36 !important;
+}
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+sup {
+    font-size: 55%;
+    line-height: 1.6;
+    vertical-align: top;
+    mso-text-raise: 30%;
+}
+/* hack for orange.fr */
+noinput#event1 {
+    display: block !important;
+    padding-top: 700px;
+}
+noinput#event1 label {
+    Margin-top: -700px !important;
+}
+
+/* DROP DOWN */
+@media screen and (max-width:510px) and (-webkit-min-device-pixel-ratio: 1)=
+ {
+input[type=3Dcheckbox]:not(:checked) ~ .eventinfo {
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out;
+}
+label:before {
+    right: 20px !important;
+}
+label:after {
+    right: 20px !important;
+}
+input[type=3Dcheckbox] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+label {
+    cursor: pointer;
+    position: relative;
+    display: block;
+    padding-left: 0px;
+}
+label:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    right: 50px;
+    border-left: 8px solid transparent;
+    border-top: 8px solid #1fbad6;
+    border-right: 8px solid transparent;
+    margin-top: -17px;
+}
+label:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    right: 50px;
+    border-left: 4px solid transparent;
+    border-top: 4px solid white;
+    border-right: 4px solid transparent;
+    margin-top: -17px;
+    margin-right: 4px;
+}
+input[type=3Dcheckbox]:checked ~ label:before {
+    content: "";
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #1fbad6;
+    border-top: 8px solid transparent;
+    margin-top: -26px;
+    margin-left: -4px;
+}
+input[type=3Dcheckbox]:checked ~ label:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    right: 50px;
+    border-left: 4px solid transparent;
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid white;
+    border-top: 4px solid transparent;
+    margin-top: -18px;
+    margin-right: 4px;
+}
+input[type=3Dcheckbox]:checked ~ .eventinfo {
+    max-height: 1800px;
+}
+}
+.hide-input {
+    display: none;
+}
+body {
+    -webkit-animation: bugfix infinite 1s;
+}
+         /* ios mail bug fix */
+         @-webkit-keyframes bugfix {
+ from {
+ padding: 0;
+}
+ to {
+ padding: 0;
+}
+}
+</style></head><!-- FILE: body_start.html.mako --><body style=3D"width: 100=
+% !important; min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; background-color: #d6d6d5; margin: 0; padding: 0;" bgcolor=
+=3D"#d6d6d5"><!-- background wrapper --><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" id=3D"bgwrapper" style=3D"width: 100% !important; heig=
+ht: 100% !important; line-height: 100% !important; border-spacing: 0; borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; background-=
+color: #d6d6d5; margin: 0; padding: 0; border: none;" bgcolor=3D"#d6d6d5"><=
+tr><td align=3D"center" class=3D"vat" style=3D"vertical-align: top;" valign=
+=3D"top"><!-- content wrapper for outlook --><!--[if (gte mso 9)|(IE)]>
+                                    <table width=3D"740" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                            <td>
+                                    <![endif]--><!-- content wrapper --><ta=
+ble width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"l-wrapperWidth l-bgcolor" style=3D"border-spacing: 0; border-collapse: =
+collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; max-width:=
+ 740px; background-color: #f8f8f9; border: none;" bgcolor=3D"#f8f8f9"><tr><=
+td><!-- top banner --><table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"function" id=3D"yellowBanner" style=3D"border-sp=
+acing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace:=
+ 0; width: 100%; border: none;"><tbody><tr><td class=3D"tac yellowBanner wh=
+ite bannerText" style=3D"font-size: 12px; line-height: 18px; font-family: '=
+ClanPro-Book','HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Ari=
+al, sans-serif; color: #ffffff; text-align: center; background-color: #ecaa=
+20; padding: 15px;" align=3D"center" bgcolor=3D"#ecaa20"><center><span>40% =
+off on 10 PREMIER rides | Max disc TK 120 | Valid only on PREMIER till Dec =
+3</span></center></td></tr></tbody></table><!-- end top banner --><!-- map =
+of ride --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"function" id=3D"map" style=3D"border-spacing: 0; border-col=
+lapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; bor=
+der: none;"><tr><td><img id=3D"map_6def51d0-bd7c-42dd-8554-80e1dfaeeebc" sr=
+c=3D"cid:map_6def51d0-bd7c-42dd-8554-80e1dfaeeebc" border=3D"0" class=3D"ma=
+p" alt=3D"map" style=3D"outline: none; text-decoration: none; display: bloc=
+k; width: 100%; height: auto; max-width: 740px; max-height: 280px;"></td></=
+tr></table><!-- end map of ride --><!-- pattern block --><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"l-wrapperWidth" style=3D"bor=
+der-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-r=
+space: 0; width: 100%; max-width: 740px; border: none;"><tr><td bgcolor=3D"=
+#62CEAD" valign=3D"bottom" background=3D"http://d1a3f4spazzrp4.cloudfront.n=
+et/receipt_v2/sample_pattern.png" style=3D"height: 60px; -webkit-background=
+-size: cover; -moz-background-size: cover; -o-background-size: cover; backg=
+round-size: cover; background-image: url('http://d1a3f4spazzrp4.cloudfront.=
+net/receipt_v2/sample_pattern.jpg');" align=3D"center" class=3D"pattern"><!=
+--[if gte mso 9]>
+                                    <v:rect xmlns:v=3D"urn:schemas-microsof=
+t-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:740px;height:60px;=
+">
+                                      <v:fill type=3D"tile" src=3D"http://d=
+1a3f4spazzrp4.cloudfront.net/receipt_v2/sample_pattern.png" color=3D"#62CEA=
+D" />
+                                      <v:textbox inset=3D"0,0,1px,0">
+                                    <![endif]--><div><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border=
+: none;"><tr><td align=3D"center" class=3D"bitSpaceLeft pmzero" style=3D"wi=
+dth: 81%; margin: 0; padding: 0;"></td><td align=3D"center" valign=3D"botto=
+m" class=3D"bitSpaceMiddle pmzero" style=3D"width: 13%; margin: 0; padding:=
+ 0;"><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/bitTop96x9=
+6.png" width=3D"96" height border=3D"0" class=3D"topBit" alt style=3D"outli=
+ne: none; text-decoration: none; display: block; max-height: 60px; max-widt=
+h: 96px; min-width: 65px; width: 100%;"></td><td align=3D"center" class=3D"=
+bitSpaceRight pmzero" style=3D"width: 6%; min-width: 15px; margin: 0; paddi=
+ng: 0;"></td></tr></table></div><!--[if gte mso 9]>
+                                      </v:textbox>
+                                    </v:rect>
+                                    <![endif]--></td></tr></table><!-- end =
+pattern --><!-- bit body --><table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"l-wrapperWidth" style=3D"border-spacing: 0; border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; max-wi=
+dth: 740px; border: none;"><tr><td align=3D"center" class=3D"l-bgcolor" sty=
+le=3D"background-color: #f8f8f9;" bgcolor=3D"#f8f8f9"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; border-colla=
+pse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; borde=
+r: none;"><tr><td align=3D"center" class=3D"bitSpaceLeft pmzero" style=3D"w=
+idth: 81%; margin: 0; padding: 0;"></td><td align=3D"center" class=3D"bitSp=
+aceMiddle pmzero" style=3D"width: 13%; margin: 0; padding: 0;"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"bitMiddle" style=3D"bo=
+rder-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-=
+rspace: 0; width: 100%; border: none;"><tr><td class=3D"bitColor" style=3D"=
+background-color: #000000;" bgcolor=3D"#000000"><img src=3D"http://d1a3f4sp=
+azzrp4.cloudfront.net/receipt_v2/bitBottom96x96.png" width=3D"96" height bo=
+rder=3D"0" class=3D"bitBottom" alt=3D"Uber logo" style=3D"outline: none; te=
+xt-decoration: none; display: block; height: auto; max-height: 90px; max-wi=
+dth: 96px; min-width: 65px; width: 100%;"></td></tr></table></td><td align=
+=3D"center" class=3D"bitSpaceRight pmzero" style=3D"width: 6%; min-width: 1=
+5px; margin: 0; padding: 0;"></td></tr></table></td></tr></table><!-- end b=
+it body --><!-- top fare information section --><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: =
+0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; wid=
+th: 100%; border: none;"><tbody><tr><td align=3D"right"><table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"l-bgcolor l-tr=
+ipInfoWrapper" style=3D"border-spacing: 0; border-collapse: collapse; mso-t=
+able-lspace: 0; mso-table-rspace: 0; width: 100%; max-width: 740px; backgro=
+und-color: #f8f8f9; border: none;" bgcolor=3D"#f8f8f9"><tbody><tr><td align=
+=3D"center"><!-- fares --><!--[if (gte mso 9)|(IE)]>
+                <table width=3D"610" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                    <tr>
+                       <td>
+                <![endif]--><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"tripInnerWrapper" style=3D"border-spacing=
+: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; w=
+idth: 100%; max-width: 610px; border: none;"><tbody><tr><td align=3D"center=
+"><!--[if (gte mso 9)|(IE)]>
+                <table width=3D"570" align=3D"left" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0">
+                    <tr>
+                        <td>
+                <![endif]--><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"l-innerWrapperWidth" align=3D"left" style=
+=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-=
+table-rspace: 0; width: 100%; border: none;"><tr><td style=3D"padding-right=
+: 15px; padding-left: 15px;"><!-- put content here --><table width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spa=
+cing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: =
+0; width: 100%; border: none;"><tbody><tr><td class=3D"rideSummary" style=
+=3D"padding-top: 20px; padding-bottom: 30px;"><!-- price / surge / refund b=
+adge row --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; mso-table-ls=
+pace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbody><tr><td cl=
+ass=3D"totalPrice topPrice tal black" style=3D"font-size: 32px; line-height=
+: 40px; font-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', Helvetica, Arial, sans-serif; color: #000000; text-align: left; pa=
+dding-bottom: 10px;" align=3D"left"> Tk=C2=A050.00 </td></tr></tbody></tabl=
+e><!-- first name greeting --><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: =
+none;"><tbody><tr><td class=3D"rideInfo gray topGreetingName" style=3D"font=
+-size: 14px; line-height: 20px; font-family: 'ClanPro-Book','HelveticaNeue-=
+Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; text-align: l=
+eft; color: #898989; padding-bottom: 10px;" align=3D"left">Thanks for choos=
+ing Uber, Shaafi</td></tr></tbody></table><!-- date / service type / surge =
+multiplier / profile updater --><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border=
+: none;"><tbody><tr><td class=3D"rideInfo gray" style=3D"font-size: 14px; l=
+ine-height: 20px; font-family: 'ClanPro-Book','HelveticaNeue-Light', 'Helve=
+tica Neue Light', Helvetica, Arial, sans-serif; text-align: left; color: #8=
+98989;" align=3D"left"> December 5, 2017 | PREMIER </td></tr></tbody></tabl=
+e><!-- end date / service type / surge multiplier --></td><td class=3D"ride=
+Summary additionalNotes" style=3D"padding-top: 20px; padding-bottom: 30px; =
+padding-left: 10px; width: 50%;"><!-- additional notes --><!-- end addition=
+al notes --></td></tr></tbody></table><!-- hr --><table width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing:=
+ 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; wi=
+dth: 100%; border: none;"><tbody><tr><td height=3D"1" class=3D"tronhr" styl=
+e=3D"background-color: #bfbfbf; font-size: 0px; line-height: 0px;" bgcolor=
+=3D"#bfbfbf"><img alt src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v=
+2/no_collapse.png" style=3D"outline: none; text-decoration: none; display: =
+block;"></td></tr></tbody></table><!-- end hr --><!-- end content --></td><=
+/tr></table><!--[if (gte mso 9)|(IE)]>
+                        </td>
+                    </tr>
+                </table>
+                <![endif]--></td></tr></tbody></table><!--[if (gte mso 9)|(=
+IE)]>
+                        </td>
+                    </tr>
+                </table>
+                <![endif]--></td></tr></tbody></table></td></tr></tbody></t=
+able><!-- close top fare information --><!-- trip address section --><table=
+ width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class styl=
+e=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso=
+-table-rspace: 0; width: 100%; border: none;"><tbody><tr><td align=3D"right=
+"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"l-bgcolor l-tripInfoWrapper" style=3D"border-spacing: 0; border-coll=
+apse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; max-=
+width: 740px; background-color: #f8f8f9; border: none;" bgcolor=3D"#f8f8f9"=
+><tbody><tr><td align=3D"center"><!-- fares --><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"610" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                           <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"tripInnerWrapper" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; max-width: 610px; border: none;"><tbody><tr><td align=3D"cen=
+ter"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"570" align=3D"left" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"l-innerWrapperWidth" align=3D"left" st=
+yle=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; m=
+so-table-rspace: 0; width: 100%; border: none;"><tr><td class=3D"addressSum=
+mary" style=3D"padding: 40px 15px;"><!-- put content here --><!-- normal ad=
+dress --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"function" id=3D"normalABlock" style=3D"display: table; bord=
+er-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%; border: none;"><tbody><tr><td><table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"98%" style=3D"bord=
+er-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%; border: none;"><tbody><tr><td width=3D"5" valign=3D"t=
+op" class=3D"addressDots" style=3D"font-size: 1; line-height: 1;"><img alt =
+src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/green-left.png" widt=
+h=3D"5" height=3D"18" style=3D"outline: none; text-decoration: none; displa=
+y: block;"></td><td width=3D"2" valign=3D"top" class=3D"addressDots address=
+Line" style=3D"font-size: 1; line-height: 1; background-color: #cdcdd3;" bg=
+color=3D"#cdcdd3"><img alt src=3D"http://d1a3f4spazzrp4.cloudfront.net/rece=
+ipt_v2/green-middle.png" width=3D"2" height=3D"18" style=3D"outline: none; =
+text-decoration: none; display: block;"></td><td width=3D"5" valign=3D"top"=
+ class=3D"addressDots" style=3D"font-size: 1; line-height: 1;"><img alt src=
+=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/green-right.png" width=
+=3D"5" height=3D"18" style=3D"outline: none; text-decoration: none; display=
+: block;"></td><td width=3D"10" valign=3D"top" class=3D"addressDots" style=
+=3D"font-size: 1; line-height: 1;"></td><td valign=3D"top" class=3D"address=
+ gray vam firstAddress tal" style=3D"font-size: 14px; line-height: 22px; fo=
+nt-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', H=
+elvetica, Arial, sans-serif; color: #898989; text-align: left; vertical-ali=
+gn: middle; padding-bottom: 20px;" align=3D"left"><span class=3D"rideTime b=
+lack" style=3D"font-size: 16px; line-height: 24px; font-family: 'ClanPro-Bo=
+ok','HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-s=
+erif; color: #000000;"> 06:57pm | </span> Rd No. 4, Dhaka 1216, Bangladesh =
+</td></tr><tr><td width=3D"5" valign=3D"top" class=3D"addressDots" style=3D=
+"font-size: 1; line-height: 1;"><img alt src=3D"http://d1a3f4spazzrp4.cloud=
+front.net/receipt_v2/red-left.png" width=3D"5" height=3D"18" style=3D"outli=
+ne: none; text-decoration: none; display: block;"></td><td width=3D"2" vali=
+gn=3D"top" class=3D"addressDots" style=3D"font-size: 1; line-height: 1;"><i=
+mg alt src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/red-middle.pn=
+g" width=3D"2" height=3D"18" style=3D"outline: none; text-decoration: none;=
+ display: block;"></td><td width=3D"5" valign=3D"top" class=3D"addressDots"=
+ style=3D"font-size: 1; line-height: 1;"><img alt src=3D"http://d1a3f4spazz=
+rp4.cloudfront.net/receipt_v2/red-right.png" width=3D"5" height=3D"18" styl=
+e=3D"outline: none; text-decoration: none; display: block;"></td><td width=
+=3D"10" valign=3D"top" class=3D"addressDots" style=3D"font-size: 1; line-he=
+ight: 1;"></td><td valign=3D"top" class=3D"address gray vam tal" style=3D"f=
+ont-size: 14px; line-height: 22px; font-family: 'ClanPro-Book', 'HelveticaN=
+eue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; color: #8=
+98989; text-align: left; vertical-align: middle;" align=3D"left"><span clas=
+s=3D"rideTime black vam" style=3D"font-size: 16px; line-height: 24px; font-=
+family: 'ClanPro-Book','HelveticaNeue-Light', 'Helvetica Neue Light', Helve=
+tica, Arial, sans-serif; color: #000000; vertical-align: middle;"> 07:00pm =
+| </span> Rd No. 4, Dhaka 1216, Bangladesh </td></tr></tbody></table></td><=
+/tr></tbody></table><!-- close normal address --><!-- end content --></td><=
+/tr></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table></td></tr></tbody=
+></table><!-- close trip address information --><!-- driver information sec=
+tion --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class style=3D"border-spacing: 0; border-collapse: collapse; mso-table-=
+lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbody><tr><td =
+align=3D"right"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"l-bgcolor l-tripInfoWrapper" style=3D"border-spacing: =
+0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; wid=
+th: 100%; max-width: 740px; background-color: #f8f8f9; border: none;" bgcol=
+or=3D"#f8f8f9"><tbody><tr><td align=3D"center"><!-- fares --><!--[if (gte m=
+so 9)|(IE)]>
+                    <table width=3D"610" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                           <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"tripInnerWrapper" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; max-width: 610px; border: none;"><tbody><tr><td align=3D"cen=
+ter"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"570" align=3D"left" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"l-innerWrapperWidth" align=3D"left" st=
+yle=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; m=
+so-table-rspace: 0; width: 100%; border: none;"><tr><td style=3D"padding-ri=
+ght: 15px; padding-left: 15px;"><!-- hr --><table width=3D"100%" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; border-c=
+ollapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; b=
+order: none;"><tr><td class=3D"fareHr" style=3D"padding-bottom: 30px;"><tab=
+le width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class st=
+yle=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; m=
+so-table-rspace: 0; width: 100%; border: none;"><tr><td height=3D"1" class=
+=3D"tronhr" style=3D"background-color: #bfbfbf; font-size: 0px; line-height=
+: 0px;" bgcolor=3D"#bfbfbf"><img src=3D"http://d1a3f4spazzrp4.cloudfront.ne=
+t/receipt_v2/no_collapse.png" alt style=3D"outline: none; text-decoration: =
+none; display: block;"></td></tr></table></td></tr></table><!-- end hr --><=
+!-- Driver information --><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-collapse: co=
+llapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none=
+;"><tbody><tr><td><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"455" align=3D"left" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" align=3D"left" class=3D"driverWrapper" style=3D=
+"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-tab=
+le-rspace: 0; width: 100%; max-width: 520px; border: none;"><tr><td style=
+=3D"padding-top: 40px; padding-bottom: 20px;"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"170" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                   <![endif]--><table width=3D"100%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" align=3D"left" class=3D"dPWrapper" style=3D"bord=
+er-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rs=
+pace: 0; width: 100%; max-width: 170px; border: none;"><tbody><tr><td class=
+=3D"driverPictureWrapper" align=3D"left" style=3D"padding-bottom: 20px;"><t=
+able class=3D"driverPicture" align=3D"left" style=3D"border-spacing: 0; bor=
+der-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 10=
+0%; max-width: 135px; border: none;"><tbody><tr><td align=3D"left"><img src=
+=3D"https://d1w2poirtb3as9.cloudfront.net/f377b2792fc3379fef3c.jpeg" width=
+=3D"66" height=3D"66" alt=3D"Picture of Rafiqul" class=3D"driverImage" styl=
+e=3D"outline: none; text-decoration: none; display: block; border-radius: 4=
+0px; -webkit-border-radius: 40px; -moz-border-radius: 40px; border: 3px sol=
+id #f1f1f1;"></td></tr></tbody></table></td></tr></tbody></table><!--[if (g=
+te mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                     <td align=3D"left">
+                    <![endif]--><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"290" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table class=3D"driverInfo" align=3D"left" =
+style=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%; max-width: 275px; border: none;"><tbody>=
+<tr><td class=3D"driverText gray tal" style=3D"font-size: 16px; line-height=
+: 24px; font-family: 'ClanPro-Book','HelveticaNeue-Light', 'Helvetica Neue =
+Light', Helvetica, Arial, sans-serif; color: #898989; text-align: left;" al=
+ign=3D"left">You rode with Rafiqul</td></tr><tr><td align=3D"left"><!--[if =
+(gte mso 9)|(IE)]>
+                    <table width=3D"274" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"tripTable" style=3D"border-spacing: 0;=
+ border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width=
+: 100%; max-width: 240px; border: none;"><tbody><tr><td height=3D"50" align=
+=3D"center"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"75" align=3D"left" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"tripSubContainer" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; min-width: 70px; border: none;"><tbody><tr><td align=3D"cent=
+er" class=3D"tripInfo tal " style=3D"font-size: 14px; line-height: 20px; fo=
+nt-family: 'ClanPro-News','HelveticaNeue-Light', 'Helvetica Neue Light', He=
+lvetica, Arial, sans-serif; text-align: left;">0.06 </td></tr><tr><td align=
+=3D"center" class=3D"tripInfoDescription gray tal" style=3D"font-size: 12px=
+; line-height: 18px; font-family: 'ClanPro-Book','HelveticaNeue-Light', 'He=
+lvetica Neue Light', Helvetica, Arial, sans-serif; color: #898989; text-ali=
+gn: left;"> kilometers </td></tr></tbody></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td><td width=3D"2" class=3D"vertLine" sty=
+le=3D"background-color: #e6e6e9;" bgcolor=3D"#e6e6e9"></td><td align=3D"cen=
+ter"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"90" align=3D"left" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"tripSubContainer" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; min-width: 70px; border: none;"><tbody><tr><td align=3D"left=
+" class=3D"tripInfo tal tripInfoText" style=3D"font-size: 14px; line-height=
+: 20px; font-family: 'ClanPro-News','HelveticaNeue-Light', 'Helvetica Neue =
+Light', Helvetica, Arial, sans-serif; padding-right: 15px; padding-left: 15=
+px; text-align: left;">00:02:22 </td></tr><tr><td align=3D"left" class=3D"t=
+ripInfoDescription gray tal tripInfoText" style=3D"font-size: 12px; line-he=
+ight: 18px; font-family: 'ClanPro-Book','HelveticaNeue-Light', 'Helvetica N=
+eue Light', Helvetica, Arial, sans-serif; color: #898989; padding-right: 15=
+px; padding-left: 15px; text-align: left;"> Trip time </td></tr></tbody></t=
+able><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td><td width=3D"2" class=3D"vertLine" sty=
+le=3D"background-color: #e6e6e9;" bgcolor=3D"#e6e6e9"></td><td align=3D"cen=
+ter"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"90" align=3D"left" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"tripSubContainer" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; min-width: 70px; border: none;"><tbody><tr><td align=3D"left=
+" class=3D"tripInfo tal tripInfoText" style=3D"font-size: 14px; line-height=
+: 20px; font-family: 'ClanPro-News','HelveticaNeue-Light', 'Helvetica Neue =
+Light', Helvetica, Arial, sans-serif; padding-right: 15px; padding-left: 15=
+px; text-align: left;">PREMIER </td></tr><tr><td align=3D"center" class=3D"=
+tripInfoDescription gray tal tripInfoText" style=3D"font-size: 12px; line-h=
+eight: 18px; font-family: 'ClanPro-Book','HelveticaNeue-Light', 'Helvetica =
+Neue Light', Helvetica, Arial, sans-serif; color: #898989; padding-right: 1=
+5px; padding-left: 15px; text-align: left;"> Car </td></tr></tbody></table>=
+<!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!-- close Driver=
+ information --><!-- driver Rating --><!--[if (gte mso 9)|(IE)]>
+<table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0">
+    <tr>
+        <td>
+<![endif]--><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class style=3D"border-spacing: 0; border-collapse: collapse; mso-ta=
+ble-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbody><tr>=
+<td class=3D"rateDriverSpace" style=3D"padding-bottom: 40px;"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"b=
+order-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table=
+-rspace: 0; width: 100%; border: none;"><tbody><tr><td class=3D"rateDriver"=
+ style=3D"background-color: #ffffff; padding: 10px 15px;" bgcolor=3D"#fffff=
+f"><!--[if (gte mso 9)|(IE)]>
+                        <table align=3D"left" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                            <tr>
+                                <td>
+<![endif]--><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"rateDriverWrapper" align=3D"left" style=3D"border-spacing:=
+ 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; wi=
+dth: 100%; border: none;"><tbody><tr><td width=3D"140"><table width=3D"100%=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-sp=
+acing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace:=
+ 0; width: 100%; border: none;"><tbody><tr><td width=3D"35%"></td><td class=
+=3D"ratingStars" style=3D"width: 6%; text-align: center; padding: 0 4px;" a=
+lign=3D"center"><a href=3D"https://email.uber.com/wf/click?upn=3DE5Fht-2Bzc=
+2SrMWnjw-2Brx3-2BODA-2FCWoVln5hONw2cjtUe85lQoen0XOUdcjv8t7eEe47mf8hRFwvvyRk=
+-2FdxrAutJrSQmKBhfJynInBRB0Po41HTc9yWlfChnRVr1ScCqtmhzh903idXSXJF780EIZS0Aj=
+z5MBcdxY8m4V9p9BOySRgUpCduYK0vbHkH7qP5gdbyEQE2MLK2ofJLZaf7HJuRB9f8Q7VFHR8dT=
+an1el6QGQE-3D_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud=
+9AorIJSoVH64-2F27P7NH9u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9Wa=
+TcEcsuxmV7dUjJ9UQGPQAV7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJE=
+DU48WepVrXkZ8cK6cZkB-2FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK=
+-2F03bDZBsgGLu2MY6t2KiqJXxwSDIZubrD-2BTYVA1L8vr3AMrIg4HLCg8fb5-2Fx8y79EGjPI=
+rVJwoXb0-2FZdCyXBiQ2-2FvEOoWhb-2BvAJhA-2Fv9DVumQws7yz1RZ-2FgSQLWimWA9kQau3n=
+TqUDk2aR9aL3XbDCaG8-3D"><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/re=
+ceipt_v2/receipt_stars.png" alt=3D"One star" class style=3D"outline: none; =
+text-decoration: none; display: block; border: none;"></a></td><td class=3D=
+"ratingStars" style=3D"width: 6%; text-align: center; padding: 0 4px;" alig=
+n=3D"center"><a href=3D"https://email.uber.com/wf/click?upn=3DE5Fht-2Bzc2Sr=
+MWnjw-2Brx3-2BODA-2FCWoVln5hONw2cjtUe85lQoen0XOUdcjv8t7eEe47mf8hRFwvvyRk-2F=
+dxrAutJrSQmKBhfJynInBRB0Po41HTc9yWlfChnRVr1ScCqtmhzh903idXSXJF780EIZS0Ajz5M=
+BcdxY8m4V9p9BOySRgUpCduYK0vbHkH7qP5gdbyEQE2MLK2ofJLZaf7HJuRB9RdcqnQpVj1m6dC=
+sZNYKRk-3D_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9Ao=
+rIJSoVH64-2F27P7NH9u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcE=
+csuxmV7dUjJ9UQGPQAV7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU4=
+8WepVrXkZ8cK6cZkB-2FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F=
+03WUQ28D1WDqTX3tJO6WZGKs8Jq-2Fkq1U7Kr-2F0nxnEivrtuJhpZ0LNdB8eKf8nGxrUlZL-2F=
+ocWtTlv981h2159bX19nIOPC-2F2Mw1yfFGsd3gPKiFdWVxRGrHsNTXZ3Hcwn-2FpxLl-2FBC44=
+59rbbez7-2BX7bcs-3D"><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/recei=
+pt_v2/receipt_stars.png" alt=3D"two stars" class style=3D"outline: none; te=
+xt-decoration: none; display: block; border: none;"></a></td><td class=3D"r=
+atingStars" style=3D"width: 6%; text-align: center; padding: 0 4px;" align=
+=3D"center"><a href=3D"https://email.uber.com/wf/click?upn=3DE5Fht-2Bzc2SrM=
+Wnjw-2Brx3-2BODA-2FCWoVln5hONw2cjtUe85lQoen0XOUdcjv8t7eEe47mf8hRFwvvyRk-2Fd=
+xrAutJrSQmKBhfJynInBRB0Po41HTc9yWlfChnRVr1ScCqtmhzh903idXSXJF780EIZS0Ajz5MB=
+cdxY8m4V9p9BOySRgUpCduYK0vbHkH7qP5gdbyEQE2MLK2ofJLZaf7HJuRB1ZSsYMV2eXlgb7l8=
+HJ5AaY-3D_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9Aor=
+IJSoVH64-2F27P7NH9u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEc=
+suxmV7dUjJ9UQGPQAV7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48=
+WepVrXkZ8cK6cZkB-2FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F0=
+3U6wicQ6MVpR4AdIohpMoFV-2BIYU-2FaUOxnN7gbSg3R7Q9D4yqWOTZwQLB2e7MB0ORJ4TI3qz=
+LysjFakD2DaXppc6rqfk6Za7vUY4ZFdvwlK7lS-2BSRyixHBkRZKbU6Exs-2FVIsZhAVP7XrmMG=
+J8fR4nuTg-3D"><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/r=
+eceipt_stars.png" alt=3D"three stars" class style=3D"outline: none; text-de=
+coration: none; display: block; border: none;"></a></td><td class=3D"rating=
+Stars" style=3D"width: 6%; text-align: center; padding: 0 4px;" align=3D"ce=
+nter"><a href=3D"https://email.uber.com/wf/click?upn=3DE5Fht-2Bzc2SrMWnjw-2=
+Brx3-2BODA-2FCWoVln5hONw2cjtUe85lQoen0XOUdcjv8t7eEe47mf8hRFwvvyRk-2FdxrAutJ=
+rSQmKBhfJynInBRB0Po41HTc9yWlfChnRVr1ScCqtmhzh903idXSXJF780EIZS0Ajz5MBcdxY8m=
+4V9p9BOySRgUpCduYK0vbHkH7qP5gdbyEQE2MLK2ofJLZaf7HJuRB8PJQI9BK0V38lrMLMddiJY=
+-3D_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH=
+64-2F27P7NH9u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7=
+dUjJ9UQGPQAV7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrX=
+kZ8cK6cZkB-2FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03Z8pxf=
+XK3uQwACThk6y3RXVqsamNiUc42Ib86onNXgD-2FubDLo4vvjRJVy3ffyXUcf0T8B1L7GORyeEw=
+V82xu-2B-2Fwk1Mdc1hyRvsiYXVBsCbZsIlF6jUFH9hC48xtO10mNHCqdhTWvSK4FsQUaxRTCZh=
+4-3D"><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/receipt_s=
+tars.png" alt=3D"four stars" class style=3D"outline: none; text-decoration:=
+ none; display: block; border: none;"></a></td><td class=3D"ratingStars" st=
+yle=3D"width: 6%; text-align: center; padding: 0 4px;" align=3D"center"><a =
+href=3D"https://email.uber.com/wf/click?upn=3DE5Fht-2Bzc2SrMWnjw-2Brx3-2BOD=
+A-2FCWoVln5hONw2cjtUe85lQoen0XOUdcjv8t7eEe47mf8hRFwvvyRk-2FdxrAutJrSQmKBhfJ=
+ynInBRB0Po41HTc9yWlfChnRVr1ScCqtmhzh903idXSXJF780EIZS0Ajz5MBcdxY8m4V9p9BOyS=
+RgUpCduYK0vbHkH7qP5gdbyEQE2MLK2ofJLZaf7HJuRB6kifySDmCJgd4l9o4UHmkw-3D_dpmKU=
+KbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH64-2F27P7=
+NH9u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7dUjJ9UQGP=
+QAV7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrXkZ8cK6cZk=
+B-2FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03fC06DneDoJJlyd=
+rB5sKHvHgPb6K-2FMrJzD6vuVCCR4gAKiRvMQFfUwJHAEizr0z4ST-2FpDgljX92I4jTP2ZopOe=
+Go2r9EOiqc4LcQOkpeKIhUbF8giFxCOCEgbFNM54OiCaqoEXkAv-2BYpHeL8BXeAjmk-3D"><im=
+g src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/receipt_stars.png"=
+ alt=3D"five stars" class style=3D"outline: none; text-decoration: none; di=
+splay: block; border: none;"></a></td><td width=3D"35%"></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr><!--[if (gte mso 9)|(IE)]>
+                        </table>
+                        <![endif]--></tbody></table></td></tr></tbody></tab=
+le><!--[if (gte mso 9)|(IE)]>
+        </td>
+    </tr>
+</table>
+<![endif]--><!-- end driver Rating --><!-- end put content here --></td></t=
+r></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--><!-- close fares --></td></tr></tbody></tab=
+le></td></tr></tbody></table><!-- end driver information section --><!-- po=
+sitive message Green --><!-- end positive message green --><!-- Employee me=
+ssage blue --><!-- end employee message blue --><!-- surge message --><!-- =
+end surge message --><!-- Disclaimer message --><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"100%" align=3D"right" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border=
+: none;"><tbody><tr><td align=3D"right"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"700" align=3D"right" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"fareWrapper" style=3D"border-spacing: =
+0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; wid=
+th: 100%; max-width: 740px; background-color: #FFFFFF; border: none;" bgcol=
+or=3D"#FFFFFF"><tbody><tr><td align=3D"center"><!-- fares --><!-- fares -->=
+<!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"650" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"fareInnerWrapper" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; max-width: 610px; border: none;"><tbody><tr><td align=3D"cen=
+ter"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"l-innerWrapperWidth" align=3D"left" style=3D"border-spacing: 0; b=
+order-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: =
+100%; border: none;"><tr><td class=3D"l-fareTop" style=3D"padding-right: 15=
+px; padding-left: 15px; padding-top: 25px;"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"560" align=3D"left" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><!-- Paragraph message --><table width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"function" id=
+=3D"textMessage" style=3D"border-spacing: 0; border-collapse: collapse; mso=
+-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbody><=
+tr><td class=3D"textMessageTable" style=3D"padding-bottom: 25px;"><!--[if (=
+gte mso 9)|(IE)]>
+                                              <table width=3D"100" align=3D=
+"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                <tr>
+                                                  <td>
+                                                    <![endif]--><div align=
+=3D"left"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"messageIconWrapper" align=3D"left" style=3D"border-spacing:=
+ 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; wi=
+dth: 100%; max-width: 120px; border: none;"><tbody><tr><td width=3D"100" cl=
+ass><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/message_ico=
+n.png" width=3D"72" height=3D"71" alt style=3D"outline: none; text-decorati=
+on: none; display: block;"></td></tr></tbody></table></div><!--[if (gte mso=
+ 9)|(IE)]>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                                                           =
+     <![endif]--><!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                            <td>
+                                                                      <![en=
+dif]--><!--[if (gte mso 9)|(IE)]>
+
+                                              <table width=3D"400" align=3D=
+"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                <tr>
+                                                  <td>
+                                                <![endif]--><div align=3D"l=
+eft"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"messageBoxWidth" align=3D"left" style=3D"border-spacing: 0; borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%=
+; max-width: 450px; border: none;"><tbody><!-- Minor Disclaimer --><tr><td =
+class=3D"textMessage tal" style=3D"font-size: 14px; line-height: 22px; font=
+-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', Hel=
+vetica, Arial, sans-serif; text-align: left;" align=3D"left"> Fare does not=
+ include fees that may be charged by your bank. Please contact your bank di=
+rectly for inquiries. </td></tr></tbody></table></div><!--[if (gte mso 9)|(=
+IE)]>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                                <![endif]--></td></tr></tbo=
+dy></table><!-- end paragraph message --></td></tr></table></td></tr></tbod=
+y></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                       </tr>
+                    </table>
+                    <![endif]--><!-- end disclaimer message --><!-- Sears m=
+essage --><!-- end sears message --><!-- start fare breakdown section --><t=
+able width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class =
+style=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0;=
+ mso-table-rspace: 0; width: 100%; border: none;"><tr><td align=3D"center">=
+<!--[if (gte mso 9)|(IE)]>
+        <table width=3D"700" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+            <tr>
+                <td>
+        <![endif]--><table width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"fareWrapper" style=3D"border-spacing: 0; border-co=
+llapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; ma=
+x-width: 740px; background-color: #FFFFFF; border: none;" bgcolor=3D"#FFFFF=
+F"><tr><td align=3D"center"><!-- fares --><table width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"fareInnerWrapper" style=3D"b=
+order-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table=
+-rspace: 0; width: 100%; max-width: 610px; border: none;"><tr><td align=3D"=
+center"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"l-innerWrapperWidth" align=3D"left" style=3D"border-spacing: 0=
+; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; widt=
+h: 100%; border: none;"><tr><td class=3D"l-fareTop" style=3D"padding-right:=
+ 15px; padding-left: 15px; padding-top: 25px;"><!--[if (gte mso 9)|(IE)]>
+        <table width=3D"560" align=3D"left" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+            <tr>
+                <td>
+        <![endif]--><!-- start dropdown --><div><!--[if !mso]><!-- --> <inp=
+ut type=3D"checkbox" id=3D"event1" class=3D"hide-input inputDropdown" style=
+=3D"display: none !important; mso-hide: all; max-height: 0px; overflow: hid=
+den;"><!--<![endif]--><label for=3D"event1"><!-- fare title --><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"b=
+order-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table=
+-rspace: 0; width: 100%; border: none;"><tr><td class=3D"tal fareTitle blac=
+k fareTitleTable" style=3D"font-size: 20px; line-height: 30px; font-family:=
+ 'ClanPro-Book','HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, A=
+rial, sans-serif; color: #000000; text-align: left; padding-bottom: 25px;" =
+align=3D"left">Your Fare</td></tr></table><!-- end fare title --></label><!=
+-- put fare information in here --><div class=3D"eventinfo"><!--[if (gte ms=
+o 9)|(IE)]>
+                            <table width=3D"540" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                    <td>
+                            <![endif]--><!-- label hr --><table width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacin=
+g: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; =
+width: 100%; border: none;"><tr><td class=3D"fareHr" style=3D"padding-botto=
+m: 30px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class style=3D"border-spacing: 0; border-collapse: collapse; mso-tab=
+le-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tr><td heig=
+ht=3D"1" class=3D"tronhr" style=3D"background-color: #bfbfbf; font-size: 0p=
+x; line-height: 0px;" bgcolor=3D"#bfbfbf"><img src=3D"http://d1a3f4spazzrp4=
+.cloudfront.net/receipt_v2/no_collapse.png" alt style=3D"outline: none; tex=
+t-decoration: none; display: block;"></td></tr></table></td></tr></table><!=
+-- end hr --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"function" style=3D"border-spacing: 0; border-collapse: co=
+llapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none=
+;"><tr><td align=3D"left" class=3D"fareText fareSpacing gray" style=3D"font=
+-size: 14px; line-height: 22px; font-family: 'ClanPro-Book', 'HelveticaNeue=
+-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; color: #8989=
+89; padding-bottom: 24px;">Base Fare </td><td align=3D"right" class=3D"fare=
+Text fareSpacing gray" style=3D"font-size: 14px; line-height: 22px; font-fa=
+mily: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvet=
+ica, Arial, sans-serif; color: #898989; padding-bottom: 24px;">80.00 </td><=
+/tr></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"function" style=3D"border-spacing: 0; border-collapse: col=
+lapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;=
+"><tr><td align=3D"left" class=3D"fareText fareSpacing gray" style=3D"font-=
+size: 14px; line-height: 22px; font-family: 'ClanPro-Book', 'HelveticaNeue-=
+Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; color: #89898=
+9; padding-bottom: 24px;">Distance </td><td align=3D"right" class=3D"fareTe=
+xt fareSpacing gray" style=3D"font-size: 14px; line-height: 22px; font-fami=
+ly: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetic=
+a, Arial, sans-serif; color: #898989; padding-bottom: 24px;">1.27 </td></tr=
+></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"function" style=3D"border-spacing: 0; border-collapse: coll=
+apse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"=
+><tr><td align=3D"left" class=3D"fareText fareSpacing gray" style=3D"font-s=
+ize: 14px; line-height: 22px; font-family: 'ClanPro-Book', 'HelveticaNeue-L=
+ight', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; color: #898989=
+; padding-bottom: 24px;">Time </td><td align=3D"right" class=3D"fareText fa=
+reSpacing gray" style=3D"font-size: 14px; line-height: 22px; font-family: '=
+ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Ar=
+ial, sans-serif; color: #898989; padding-bottom: 24px;">7.10 </td></tr></ta=
+ble><!-- hr --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; mso-table=
+-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tr><td class=
+=3D"fareHr" style=3D"padding-bottom: 30px;"><table width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; b=
+order-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: =
+100%; border: none;"><tr><td height=3D"1" class=3D"tronhr" style=3D"backgro=
+und-color: #bfbfbf; font-size: 0px; line-height: 0px;" bgcolor=3D"#bfbfbf">=
+<img src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/no_collapse.png=
+" alt style=3D"outline: none; text-decoration: none; display: block;"></td>=
+</tr></table></td></tr></table><!-- end hr --><!-- Subtotal Fare --><table =
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"fu=
+nction" id=3D"subtotalFare" style=3D"border-spacing: 0; border-collapse: co=
+llapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none=
+;"><tr><td align=3D"left" class=3D"fareText fareSpacing black" style=3D"fon=
+t-size: 14px; line-height: 22px; font-family: 'ClanPro-Book', 'HelveticaNeu=
+e-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; color: #000=
+000; padding-bottom: 24px;">Subtotal </td><td align=3D"right" class=3D"fare=
+Text fareSpacing black" style=3D"font-size: 14px; line-height: 22px; font-f=
+amily: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helve=
+tica, Arial, sans-serif; color: #000000; padding-bottom: 24px;">Tk=C2=A088.=
+37 </td></tr></table><!-- Settled Trips --><!-- End Settled Trips --><!-- D=
+educted credits --><!-- End Deducted credits --><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"function" id=3D"bookin=
+gFeeFare" style=3D"border-spacing: 0; border-collapse: collapse; mso-table-=
+lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbody><tr><td =
+align=3D"left" class=3D"fareText fareSpacing gray" style=3D"font-size: 14px=
+; line-height: 22px; font-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'H=
+elvetica Neue Light', Helvetica, Arial, sans-serif; color: #898989; padding=
+-bottom: 24px;">Rounding <td align=3D"right" class=3D"fareText fareSpacing =
+green" style=3D"font-size: 14px; line-height: 22px; font-family: 'ClanPro-B=
+ook', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans=
+-serif; color: #5dbb5f; padding-bottom: 24px;">-3.02 </td></tr></tbody></ta=
+ble><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"function" id=3D"bookingFeeFare" style=3D"border-spacing: 0; border=
+-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;=
+ border: none;"><tbody><tr><td align=3D"left" class=3D"fareText fareSpacing=
+ gray" style=3D"font-size: 14px; line-height: 22px; font-family: 'ClanPro-B=
+ook', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans=
+-serif; color: #898989; padding-bottom: 24px;">Promotion <td align=3D"right=
+" class=3D"fareText fareSpacing green" style=3D"font-size: 14px; line-heigh=
+t: 22px; font-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neu=
+e Light', Helvetica, Arial, sans-serif; color: #5dbb5f; padding-bottom: 24p=
+x;">-35.35 </td></tr></tbody></table><!-- Tax Summary section --></div><!--=
+ end dropdown --><!-- hr --><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; border-collapse: colla=
+pse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;">=
+<tr><td class=3D"fareHr" style=3D"padding-bottom: 30px;"><table width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-=
+spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspac=
+e: 0; width: 100%; border: none;"><tr><td height=3D"1" class=3D"tronhr" sty=
+le=3D"background-color: #bfbfbf; font-size: 0px; line-height: 0px;" bgcolor=
+=3D"#bfbfbf"><img src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/no=
+_collapse.png" alt style=3D"outline: none; text-decoration: none; display: =
+block;"></td></tr></table></td></tr></table><!-- end hr --><!-- fare breakd=
+own card --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class id=3D"Charged" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: non=
+e;"><tr><td align=3D"left" class=3D"chargedText gray" style=3D"font-size: 1=
+0px; line-height: 16px; font-family: 'ClanPro-News','HelveticaNeue-Light', =
+'Helvetica Neue Light', Helvetica, Arial, sans-serif; text-transform: upper=
+case; color: #898989;">collected</td><td rowspan=3D"2" align=3D"right" clas=
+s=3D"totalPrice chargedFare black" style=3D"font-size: 32px; line-height: 4=
+0px; font-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Li=
+ght', Helvetica, Arial, sans-serif; color: #000000; padding-bottom: 30px;">=
+ Tk=C2=A050.00 </td></tr><tr><td align=3D"left" class=3D"fareText chargedFa=
+re gray vat" style=3D"font-size: 14px; line-height: 22px; font-family: 'Cla=
+nPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial=
+, sans-serif; color: #898989; vertical-align: top; padding-bottom: 30px;" v=
+align=3D"top"><span align=3D"left" class=3D"creditCardImage" style=3D"displ=
+ay: inline-block; width: 20px; vertical-align: middle; padding-right: 5px;"=
+><img alt id=3D"cash_icon" src=3D"http://d1a3f4spazzrp4.cloudfront.net/rece=
+ipt/cash_24.png" class=3D"card-image" width=3D"auto" style=3D"outline: none=
+; text-decoration: none; display: block; max-width: 100%;"></span> <span cl=
+ass=3D"ccNumbers" style=3D"word-break: keep-all;">Cash</span><!-- <span cla=
+ss=3D"expiredIcon badge function" id=3D"expiredBadgeBottom">Card Expired</s=
+pan> --></td></tr></table><!-- end of fare breakdown card --><!-- fare brea=
+kdown arrears details --><!-- end of fare breakdown arrears details --><!--=
+ hr --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace:=
+ 0; mso-table-rspace: 0; width: 100%; border: none;"><tr><td class=3D"fareH=
+r" style=3D"padding-bottom: 30px;"><table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-col=
+lapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; bor=
+der: none;"><tr><td height=3D"1" class=3D"tronhr" style=3D"background-color=
+: #bfbfbf; font-size: 0px; line-height: 0px;" bgcolor=3D"#bfbfbf"><img src=
+=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/no_collapse.png" alt st=
+yle=3D"outline: none; text-decoration: none; display: block;"></td></tr></t=
+able></td></tr></table><!-- end hr --><!-- Provide a breakdown for each of =
+the tips, which consist of tip charges --><table width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; bor=
+der-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 10=
+0%; border: none;"><tbody></tbody></table><table width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; bor=
+der-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 10=
+0%; border: none;"><tr><td class=3D"fareDisclaimer tal" style=3D"font-size:=
+ 10px; line-height: 16px; font-family: 'ClanPro-News','HelveticaNeue-Light'=
+, 'Helvetica Neue Light', Helvetica, Arial, sans-serif; text-align: left;" =
+align=3D"left">License Plate: GA292176</td></tr></table><table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-s=
+pacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace=
+: 0; width: 100%; border: none;"><tr><td class=3D"fareDisclaimer tal" style=
+=3D"font-size: 10px; line-height: 16px; font-family: 'ClanPro-News','Helvet=
+icaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; text-=
+align: left;" align=3D"left"><a href=3D"https://email.uber.com/wf/click?upn=
+=3DE5Fht-2Bzc2SrMWnjw-2Brx3-2BCge-2BTDCYy8uto5SQzU7fOeBU5og-2Biyx2NmmoPlR8r=
+F3SxyISFWZu37-2Fjc9lsXbU8TojUT4rLrl-2B-2F0TiQQP0848-3D_dpmKUKbZpRBSNIOjJL4Q=
+PNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH64-2F27P7NH9u8gV7BbAlwWX=
+NMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7dUjJ9UQGPQAV7nKefYqj2-2F=
+otnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrXkZ8cK6cZkB-2FuboblV3zzKs=
+Aw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03RsiA-2F-2FfX-2F88iha0-2BFWP14=
+8WKYsvWn9-2FtYDjfwpyj4RtChfhvgS2F-2BP5B0T2sIUPNd-2Ff5AGZTH-2BoN-2FM2No130yo=
+xofBqJpdnZN325pHeRTeAG8zJT6pScaa-2BsL7YN7l6ynEGPs7QVJv6-2By5YRQ5g8o4-3D">Vi=
+sit the trip page</a> for more information, including invoices (where avail=
+able)</td></tr></table><table width=3D"100%" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class style=3D"border-spacing: 0; border-collapse: colla=
+pse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;">=
+<tr><td class=3D"tripReference" style=3D"line-height: 1px; font-size: 1px; =
+color: #FFFFFF;">xid6def51d0-bd7c-42dd-8554-80e1dfaeeebc</td></tr><tr><td c=
+lass=3D"zdReceiptIdentifier" style=3D"line-height: 1px; font-size: 1px; col=
+or: #FFFFFF;">pGvlI2ANUbXFfyEOgxta1RMV082993</td></tr></table><!-- UPDATE C=
+ARD button here --></div></td></tr></table></td></tr><tr><td class=3D"foote=
+rSpace" style=3D"padding-top: 40px;"> </td></tr></table><!--[if (gte mso 9)=
+|(IE)]>
+                </td>
+            </tr>
+        </table>
+        <![endif]--><!-- close fares --></td></tr></table><!--[if (gte mso =
+9)|(IE)]>
+                </td>
+            </tr>
+        </table>
+        <![endif]--></td></tr><!-- space for layout --><tr><td class=3D"lay=
+outSpace" style=3D"padding-top: 60px;"> </td></tr><!-- end space for layout=
+ --></table><!-- end fare breakdown section --><!-- promotional callout sec=
+tion --><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class style=3D"border-spacing: 0; border-collapse: collapse; mso-table-=
+lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tbody><tr><td =
+align=3D"center"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"700" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"calloutWrapper" style=3D"border-spacin=
+g: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; =
+width: 100%; max-width: 700px; background-color: #FFFFFF; border: none;" bg=
+color=3D"#FFFFFF"><tbody><tr><td align=3D"right"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"615" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"calloutInnerWrapper" style=3D"border-s=
+pacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace=
+: 0; width: 100%; max-width: 615px; border: none;"><tbody><tr><td align=3D"=
+left"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"570" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"l-innerWrapperWidth" align=3D"left" st=
+yle=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; m=
+so-table-rspace: 0; width: 100%; border: none;"><tr><td class=3D"tal" style=
+=3D"padding-right: 15px; padding-left: 15px; text-align: left;" align=3D"le=
+ft"><!-- promotional Content goes here --><table width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; bor=
+der-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 10=
+0%; border: none;"><tbody><tr><td class=3D"promoWrapper" style=3D"padding: =
+50px 0 30px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"promoImageContainer" align=3D"left" style=3D"border-spac=
+ing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0=
+; width: 100%; max-width: 320px; border: none;"><tbody><tr><td class=3D"pro=
+moImageTd" style=3D"padding-bottom: 20px;"><img src=3D"http://d1a3f4spazzrp=
+4.cloudfront.net/receipt_v2/sample_offer_image.png" alt class=3D"promoImage=
+" style=3D"outline: none; text-decoration: none; display: block; max-width:=
+ 100%; height: auto; border: none;"></td></tr></tbody></table><!--[if (gte =
+mso 9)|(IE)]>
+                            </td>
+                    <td style=3D"padding-bottom:20px;">
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"promoTextTable" align=3D"left" style=
+=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-=
+table-rspace: 0; width: 100%; max-width: 220px; border: none;"><tbody><tr><=
+td class=3D"promoText gray" style=3D"font-size: 14px; line-height: 22px; fo=
+nt-family: 'ClanPro-Book', 'HelveticaNeue-Light', 'Helvetica Neue Light', H=
+elvetica, Arial, sans-serif; color: #898989;">Invite your friends and famil=
+y. Give friends free ride credit to try Uber. You'll get BDT100 off each of=
+ your next 2 rides when they start riding. </td></tr><tr><td class=3D"promo=
+Code green" style=3D"font-size: 20px; line-height: 30px; font-family: 'Clan=
+Pro-Book','HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, =
+sans-serif; color: #5dbb5f;"> Share code: shaafis12ue </td></tr></tbody></t=
+able></td></tr></tbody></table><!-- end promotional content goes here --></=
+td></tr></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!--[if (gte mso =
+9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></tbody></table><!-- optional spa=
+ce if promotional callout is used --><table width=3D"100%" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-c=
+ollapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; b=
+order: none;"><tbody><tr><td class=3D"layoutSpace" style=3D"padding-top: 60=
+px;"> </td></tr></tbody></table><!-- end optional space if callout is used =
+--><!-- end optional space if callout is used --><!-- end promotional callo=
+ut section --><!-- footer --><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                      <tr>
+                          <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border=
+: none;"><tr><td align=3D"center" class=3D"outerFooterWrapper" style=3D"bac=
+kground-color: #000000;" bgcolor=3D"#000000"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; border-collapse=
+: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: =
+none;"><tr><td align=3D"center"><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"middleFooterWrapper" style=3D"border-s=
+pacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace=
+: 0; width: 100%; max-width: 700px; border: none;"><tr><td style=3D"padding=
+: 0 15px;"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"648" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"innerfooterwrapper" style=3D"border-sp=
+acing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace:=
+ 0; width: 100%; border: none;"><tr><td><table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%=
+; border: none;"><tr><td align=3D"left"><!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"585" align=3D"left" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                        <tr>
+                            <td>
+                    <![endif]--><!--[if (gte mso 9)|(IE)]>
+<table width=3D"380" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+   <tr>
+      <td>
+         <![endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"logoFooter" align=3D"left" style=3D"border-spacing: 0; border-co=
+llapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; ma=
+x-width: 380px; table-layout: fixed; border: none;"><tr><td style=3D"paddin=
+g-top: 40px;"><!-- uber logo --><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"function" width=3D"100%" align=3D"left" id=3D"logo" s=
+tyle=3D"border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; =
+mso-table-rspace: 0; width: 100%; border: none;"><tr><td align=3D"left"><im=
+g src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/footer_logo.png" w=
+idth=3D"90" height=3D"20" alt=3D"Uber logo" class style=3D"outline: none; t=
+ext-decoration: none; display: block;"></td></tr></table><!-- end uber logo=
+ --><!-- end eats logo --></td></tr></table><!--[if (gte mso 9)|(IE)]>
+      </td>
+   </tr>
+</table>
+<![endif]--><!--[if mso]></td>
+<td align=3D"left">
+   <![endif]--><!--[if (gte mso 9)|(IE)]>
+<table width=3D"250" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+   <tr>
+      <td>
+         <![endif]--><div align=3D"left"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"social" align=3D"left" style=3D"border-spaci=
+ng: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;=
+ width: 100%; max-width: 200px; border: none;"><tr><td style=3D"padding-top=
+: 40px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class widt=
+h=3D"100%" align=3D"left" style=3D"border-spacing: 0; border-collapse: coll=
+apse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"=
+><tr><td class=3D"firstSocialIcons" style=3D"padding-right: 20px;"><table w=
+idth=3D"9" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"=
+border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; width: 100%; border: none;"><tr><td><a href=3D"https://email.u=
+ber.com/wf/click?upn=3DV7T3gCRxaCYUcgZcra9fG2HyIjnxDfjdf2Ma-2FIjNCLDlCH7dMR=
+kSFFGp90Cnbu-2BXK5cFbMmHi6EJe8urVRbf2frJik7YyKo04D3C9zgZ0Rs-3D_dpmKUKbZpRBS=
+NIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH64-2F27P7NH9u8gV=
+7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7dUjJ9UQGPQAV7nKe=
+fYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrXkZ8cK6cZkB-2Fubo=
+blV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03VVv4PQWWOt2sPxuQIEwgW=
+nnnmS7AEIU8jcB4kVoqRwbrP0XJsEhINeqokXI-2B3hqvJ2KI8BW6GI3goGGeMbUegfp1euNkQJ=
+-2BVm8dlsyRpEvTLxeIcyN132yW-2B9m6TIj-2F5T-2Fm7bhpUexHNtru9-2FUQZ6U-3D"><img=
+ width=3D"9" height=3D"19" id=3D"cid_share_facebook" alt=3D"Share on Facebo=
+ok" src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v2/footer_social_fa=
+cebook.png" style=3D"outline: none; text-decoration: none; display: block; =
+border: none;"></a></td></tr></table></td><td class=3D"socialIcons" style=
+=3D"padding-left: 20px; padding-right: 20px;"><table width=3D"25" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0; b=
+order-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: =
+100%; border: none;"><tr><td><a href=3D"https://email.uber.com/wf/click?upn=
+=3DzGdTI6oMWm9R1S3upgsC6JUrV-2B63GQ3U4egqqvHGkHtmiVuu1yfG2a7WAzT-2BI27iWpRh=
+7U-2B7uZgaNbR6-2B8tXvrqi-2F2Bl4tXM3zoQg8aQltd8fGBo-2BjkRg5qRCR-2FXwsB2w4u5s=
+1ISWev4yAw3FCg4i1-2FK16fByMePjTy3bYaP4RyOBoQSieQWQpCGBzm9YRtTIKKjNM0ERVyJ37=
+RNc1uhDvAe7-2FzIego8VU7GnC6LcAJHJ8-2FH7AlVRFmnAtzB5ZofZvKtcvDr0c0QBO5v0Z-2B=
+8ew-3D-3D_dpmKUKbZpRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9Aor=
+IJSoVH64-2F27P7NH9u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEc=
+suxmV7dUjJ9UQGPQAV7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48=
+WepVrXkZ8cK6cZkB-2FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F0=
+3d4d-2Bht9boiIdBtx2r3Ldp-2Bjle2XlwbJc46QH2pcqPAevfyvTeWd2UNvA3rYd-2BX-2FvnF=
+qtFejfQwB-2BYYESW8kmIbLL8lEbwM6LzIKvCTDWScs0w9iNI7qbCTHuhI5Ij1OD-2FFw38Z4uU=
+jSVZaqKnaUHEs-3D"><img width=3D"25" height=3D"19" id=3D"cid_share_twitter" =
+alt=3D"Share on Twitter" src=3D"http://d1a3f4spazzrp4.cloudfront.net/receip=
+t_v2/footer_social_twitter.png" style=3D"outline: none; text-decoration: no=
+ne; display: block; border: none;"></a></td></tr></table></td><td class=3D"=
+socialIcons" style=3D"padding-left: 20px; padding-right: 20px;"><table widt=
+h=3D"20" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"bo=
+rder-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-=
+rspace: 0; width: 100%; border: none;"><tr><td><a href=3D"mailto:?subject=
+=3DHere's BDT100 off each of your first 2 Uber rides&body=3DI'm giving you =
+BDT100 off each of your first 2 Uber rides. To accept, use code 'shaafis12u=
+e' to sign up. Enjoy! Details: https://www.uber.com/invite/shaafis12ue"><im=
+g width=3D"20" height=3D"19" class=3D"share-icons" id=3D"cid_share_email" a=
+lt=3D"Share as Email" src=3D"http://d1a3f4spazzrp4.cloudfront.net/receipt_v=
+2/footer_email.png" style=3D"outline: none; text-decoration: none; display:=
+ block; border: none;"></a></td></tr></table></td></tr></table></td></tr></=
+table></div><!--[if (gte mso 9)|(IE)]>
+      </td>
+   </tr>
+</table>
+<![endif]--><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></table></td></tr><tr><td class=
+=3D"footerSpace" style=3D"padding-top: 40px;"><table width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class style=3D"border-spacing: 0=
+; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; widt=
+h: 100%; border: none;"><!-- full break start--><tr><td height=3D"1" class=
+=3D"tronhr" style=3D"background-color: #bfbfbf; font-size: 0px; line-height=
+: 0px;" bgcolor=3D"#bfbfbf"> </td></tr><!-- full break end --></table></td>=
+</tr><tr><td><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class style=3D"border-spacing: 0; border-collapse: collapse; mso-t=
+able-lspace: 0; mso-table-rspace: 0; width: 100%; border: none;"><tr><td cl=
+ass=3D"vat" valign=3D"top" style=3D"vertical-align: top;"><!--[if (gte mso =
+9)|(IE)]>
+<table width=3D"380" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+   <tr>
+      <td style=3D"vertical-align:top;" valign=3D"top">
+         <![endif]--><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"logoFooter" align=3D"left" style=3D"border-spacing: 0; border-co=
+llapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%; ma=
+x-width: 380px; table-layout: fixed; border: none;"><tr><td valign=3D"top" =
+align=3D"left" class=3D"vat footerLinkWrapper" style=3D"vertical-align: top=
+; padding-top: 40px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"footerBoundingBox" width=3D"100%" align=3D"left" style=3D"borde=
+r-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rsp=
+ace: 0; width: 100%; max-width: 250px; border: none;"><tr><td class=3D"foot=
+erLinks white subFooterLinks" align=3D"left" style=3D"font-size: 14px; line=
+-height: 20px; font-family: 'ClanPro-News','HelveticaNeue-Light', 'Helvetic=
+a Neue Light', Helvetica, Arial, sans-serif; color: #ffffff; padding-bottom=
+: 10px;">Need help?</td></tr><tr><td class=3D"footerText footerGray subFoot=
+erLinks" align=3D"left" style=3D"font-size: 12px; line-height: 18px; font-f=
+amily: 'ClanPro-Book','HelveticaNeue-Light', 'Helvetica Neue Light', Helvet=
+ica, Arial, sans-serif; color: #9d9da3; padding-bottom: 10px;"> Tap Help in=
+ your app to <a class=3D"white link" href=3D"https://email.uber.com/wf/clic=
+k?upn=3DITf-2BUi9bO5sUhPgUfzyAxmHd0Ofxffga-2FDItbItpgC4-3D_dpmKUKbZpRBSNIOj=
+JL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH64-2F27P7NH9u8gV7BbA=
+lwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7dUjJ9UQGPQAV7nKefYqj=
+2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrXkZ8cK6cZkB-2FuboblV3=
+zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03dRtlSFAY9bVQFw0A8ghtgrS1D=
+ZA5VfbESU2HoqOjjGJrQaBpuK3iqihjaDzH7YYOflG1KM6JvCuVlBYxTneDY4L1qYlVes-2BXYQ=
+iSwC1UogMpihwUUBId8QUdKTha8wHRwyofgdARqjblNhj-2Bhi6M-2F0-3D" style=3D"color=
+: #ffffff; text-decoration: none;">contact us</a> with questions about your=
+ trip. </td></tr><tr><td class=3D"footerText footerGray subFooterLinks" ali=
+gn=3D"left" style=3D"font-size: 12px; line-height: 18px; font-family: 'Clan=
+Pro-Book','HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, =
+sans-serif; color: #9d9da3; padding-bottom: 10px;"> Leave something behind?=
+ <a class=3D"white link" href=3D"https://email.uber.com/wf/click?upn=3DE5Fh=
+t-2Bzc2SrMWnjw-2Brx3-2BDcqdpWOGyGqCNkFSSazGG7a9zwJlcS0D9SnKsWKQk8M_dpmKUKbZ=
+pRBSNIOjJL4QPNOBx789MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH64-2F27P7NH9=
+u8gV7BbAlwWXNMJCI66qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7dUjJ9UQGPQAV=
+7nKefYqj2-2FotnQ2VBpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrXkZ8cK6cZkB-2=
+FuboblV3zzKsAw09Sb366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03e5eEdQaUkNcamp2L5=
+kYxtB5Pe-2FLXvJT2ZG-2B2K26olV-2F-2BDYmTejBa8PJq1jXZUFghZ62bYpHM-2FMZL80toaT=
+1XmV5V95Ov6Jmw-2FtisVk5tXPfeUds4hPZ6TLqDC8KbZbTMPYB7mAFKeq0IP5qQjOTfU4-3D" =
+style=3D"color: #ffffff; text-decoration: none;">Track it down.</a></td></t=
+r></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+      </td>
+   </tr>
+</table>
+<![endif]--><!--[if mso]></td>
+<td>
+   <![endif]--><!--[if (gte mso 9)|(IE)]>
+<table width=3D"250" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+   <tr>
+      <td>
+         <![endif]--><div align=3D"left"> </div><!--[if (gte mso 9)|(IE)]>
+      </td>
+   </tr>
+</table>
+<![endif]--></td></tr></table></td></tr><tr><td class=3D"layoutSpace" style=
+=3D"padding-top: 60px;"> </td></tr></table><!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]--></td></tr></table></td></tr></table></td></=
+tr></table><!-- end footer --></td></tr></table><!-- end content wrapper --=
+><!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <![endif]--></td><!-- end content wrapp=
+er for outlook --></tr></table><!-- end background wrapper -->
+<img src=3D"https://email.uber.com/wf/open?upn=3DdpmKUKbZpRBSNIOjJL4QPNOBx7=
+89MFj7IVolPuMqUcC6vbtmvQ5MzSpVaqhud9AorIJSoVH64-2F27P7NH9u8gV7BbAlwWXNMJCI6=
+6qJPj5XQ4ZAnl8ToVDGuCFeIYX30L1Ns9WaTcEcsuxmV7dUjJ9UQGPQAV7nKefYqj2-2FotnQ2V=
+BpmwoWipejO-2FhU0yoSK-2FDP6OejoEhJEDU48WepVrXkZ8cK6cZkB-2FuboblV3zzKsAw09Sb=
+366beVFXZQaUsQBdUYB-2FzIp8rRUeSjTVK-2F03SKOfq20OEVs-2BjB6ooPN9zklVft0kjQhA8=
+8vsz153Nk5uE1oKykJ1h9mQoJXNez83DnkaRyiJniOC-2FBloBDTvzJN4KT1P74kQIS5-2B-2BD=
+nzOWxejH9NKD12-2FcRtIcuAfFmZkRTsB5oD9XJB4NE6LBnGLI-3D" alt=3D"" width=3D"1"=
+ height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !import=
+ant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !impo=
+rtant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !imp=
+ortant;padding-bottom:0 !important;padding-right:0 !important;padding-left:=
+0 !important;"/>
+</body></html>
+
+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
