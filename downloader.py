@@ -1,5 +1,7 @@
 import imaplib, email, os
 import datetime
+import pdfkit
+from bs4 import BeautifulSoup
 # user = 'your_email'
 # password = 'your_password'
 # imap_url = 'imap.gmail.com'
@@ -19,11 +21,64 @@ def get_body(msg):
 
 
 def save_email(num, subject, body):
-    with open("receipts/" + str(num.decode('utf-8')) + ".txt", "w") as f:
-        f.write(subject)
-        f.write("\n\n")
+    with open("index.html", 'w') as f:
         f.write(body)
+        file_name = str(num.decode('utf-8'))
+        pdfkit.from_file('index.html', f'receipts/{num}.pdf')
+        # make_html_images_inline("index.html", "receipts/uber.pdf")
+    # with open("receipts/" + str(num.decode('utf-8')) + ".pdf", "w") as f:
+    #     f.write(subject)
+    #     f.write("\n\n")
+    #     f.write(body)
+def guess_type(filepath):
+    """
+    Return the mimetype of a file, given it's path.
+    This is a wrapper around two alternative methods - Unix 'file'-style
+    magic which guesses the type based on file content (if available),
+    and simple guessing based on the file extension (eg .jpg).
+    :param filepath: Path to the file.
+    :type filepath: str
+    :return: Mimetype string.
+    :rtype: str
+    """
+    try:
+        import magic  # python-magic
+        return magic.from_file(filepath, mime=True)
+    except ImportError:
+        import mimetypes
+        return mimetypes.guess_type(filepath)[0]
 
+def file_to_base64(filepath):
+    """
+    Returns the content of a file as a Base64 encoded string.
+    :param filepath: Path to the file.
+    :type filepath: str
+    :return: The file content, Base64 encoded.
+    :rtype: str
+    """
+    import base64
+    with open(filepath, 'rb') as f:
+        encoded_str = base64.b64encode(f.read())
+    return encoded_str
+def make_html_images_inline(in_filepath, out_filepath):
+    """
+    Takes an HTML file and writes a new version with inline Base64 encoded
+    images.
+    :param in_filepath: Input file path (HTML)
+    :type in_filepath: str
+    :param out_filepath: Output file path (HTML)
+    :type out_filepath: str
+    """
+    basepath = os.path.split(in_filepath.rstrip(os.path.sep))[0]
+    soup = BeautifulSoup(open(in_filepath, 'r'), 'html.parser')
+    for img in soup.find_all('img'):
+        img_path = os.path.join(basepath, img.attrs['src'])
+        mimetype = guess_type(img_path)
+        img.attrs['src'] = \
+            "data:%s;base64,%s" % (mimetype, file_to_base64(img_path))
+
+    with open(out_filepath, 'w') as of:
+        of.write(str(soup))
 # allows you to download attachments
 def get_attachments(msg, con):
     for part in msg.walk():
@@ -52,26 +107,38 @@ def extract_body(payload):
     else:
         return '\n'.join([extract_body(part.get_payload()) for part in payload])
 
+def parse_html(message):
+    '''parse a message and return html_content'''
+    content = ''
+    if message.is_multipart():
+        for part in message.walk():
+            if part.get_content_type() == 'text/html':
+                content += part.get_payload(None, True).decode('utf-8')
+        html_content = content
+    else:
+        content = message.get_payload(None, True)
+        html_content = content.decode('utf-8')
+    return html_content
 
 def get_emails(conn):
     count = 0
-    data = search('FROM', 'Uber Receipts', conn)
+    result, data  = conn.search(None, '(SINCE "01-Feb-2020" BEFORE "01-Mar-2020" From "uber.bangladesh@uber.com" Subject "[Business]")')
+    # data = search('FROM', 'Uber Receipts', conn)
     try:
-        for num in reversed(data[0].split()):
-            print(count)
+        for num in data[0].split():
             try:
                 _, msg_data = conn.fetch(num, '(RFC822)')
                 for response_part in msg_data:
                     if isinstance(response_part, tuple):
                         msg = email.message_from_string(response_part[1].decode("utf-8"))
+                        
                         subject = msg['subject']
-                        payload = msg.get_payload()
-                        body = extract_body(payload)
+                        body = parse_html(msg)
+                        # payload = msg.get_payload()
+                        # body = extract_body(payload)
                         save_email(num, subject, body)
                         count += 1
                         print(count, "Messages saved")
-                        if count > 60:
-                            break
             except Exception as e:
                 print("Couldnt Parse message:", num, e)
                 pass
@@ -95,9 +162,8 @@ def get_last_month():
     return lastMonth.strftime("%m %Y")
 
 def main():
-    user = raw_input("Your email id: ")
-    password = raw_input("Your password: ")
-
+    user = input("Your email id: ")
+    password = input("Your password: ")
     imap_url = 'imap.gmail.com'
     con = auth(user, password, imap_url)
     con.select('INBOX')
